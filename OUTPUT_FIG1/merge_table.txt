@@ -1,0 +1,4 @@
+key	ctn	file_new	file_orig	invasion_veena	k14_veena	orgnum
+CTN010_Tumor_Day6_26	CTN010	CTN010_Day6_26.tif	CTN010_Day6-003_AC04_26.zvi.tif	3	2	26
+CTN010_Tumor_Day6_35	CTN010	CTN010_Day6_35.tif	CTN010_Day6-003_AC04_35.zvi.tif	3	3	35
+CTN010_Tumor_Day6_45	CTN010	CTN010_Day6_45.tif	CTN010_Day6-003_AC04_45.zvi.tif	1	2	45

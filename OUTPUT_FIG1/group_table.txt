@@ -1,0 +1,2 @@
+key	invasion_spectral	k14_mean	k14_sum	size_frac	tag_color	tag_photometric
+CTN010	1.4083391329	0.407252031804	0.0747676576359	0.201177214956	rgb	2

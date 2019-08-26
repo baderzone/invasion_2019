@@ -1,0 +1,947 @@
+orig	new
+CTN001_Day6_B1-015_AB01_01.zvi.tif	CTN001_Day6_01.tif
+CTN001_Day6_B1-015_AB01_02.zvi.tif	CTN001_Day6_02.tif
+CTN001_Day6_B1-015_AB01_03.zvi.tif	CTN001_Day6_03.tif
+CTN001_Day6_B1-015_AB01_04.zvi.tif	CTN001_Day6_04.tif
+CTN001_Day6_B1-015_AB01_05.zvi.tif	CTN001_Day6_05.tif
+CTN001_Day6_B1-015_AB01_06.zvi.tif	CTN001_Day6_06.tif
+CTN001_Day6_B1-015_AB01_07.zvi.tif	CTN001_Day6_07.tif
+CTN001_Day6_B1-015_AB01_08.zvi.tif	CTN001_Day6_08.tif
+CTN001_Day6_B3-016_AB03_01.zvi.tif	CTN001_Day6_09.tif
+CTN001_Day6_B3-016_AB03_02.zvi.tif	CTN001_Day6_10.tif
+CTN0015_Day6-001_Position(15).zvi.tif	CTN015_Day6_01.tif
+CTN0015_Day6-001_Position(16).zvi.tif	CTN015_Day6_02.tif
+CTN0015_Day6-001_Position(17).zvi.tif	CTN015_Day6_03.tif
+CTN0015_Day6-001_Position(18).zvi.tif	CTN015_Day6_04.tif
+CTN0015_Day6-001_Position(19).zvi.tif	CTN015_Day6_05.tif
+CTN0015_Day6-001_Position(20).zvi.tif	CTN015_Day6_06.tif
+CTN0015_Day6-001_Position(21).zvi.tif	CTN015_Day6_07.tif
+CTN0015_Day6-001_Position(22).zvi.tif	CTN015_Day6_08.tif
+CTN0015_Day6-001_Position(23).zvi.tif	CTN015_Day6_09.tif
+CTN0015_Day6-001_Position(24).zvi.tif	CTN015_Day6_10.tif
+CTN0015_Day6-001_Position(25).zvi.tif	CTN015_Day6_11.tif
+CTN0015_Day6-001_Position(26).zvi.tif	CTN015_Day6_12.tif
+CTN0015_Day6-001_Position(27).zvi.tif	CTN015_Day6_13.tif
+CTN0015_Day6-001_Position(28).zvi.tif	CTN015_Day6_14.tif
+CTN0015_Day6-001_Position(29).zvi.tif	CTN015_Day6_15.tif
+CTN0015_Day6-001_Position(30).zvi.tif	CTN015_Day6_16.tif
+CTN0015_Day6-001_Position(31).zvi.tif	CTN015_Day6_17.tif
+CTN0015_Day6-001_Position(32).zvi.tif	CTN015_Day6_18.tif
+CTN0015_Day6-001_Position(33).zvi.tif	CTN015_Day6_19.tif
+CTN0015_Day6-001_Position(34).zvi.tif	CTN015_Day6_20.tif
+CTN0015_Day6-001_Position(35).zvi.tif	CTN015_Day6_21.tif
+CTN0015_Day6-001_Position(36).zvi.tif	CTN015_Day6_22.tif
+CTN0015_Day6-001_Position(37).zvi.tif	CTN015_Day6_23.tif
+CTN0015_Day6-001_Position(38).zvi.tif	CTN015_Day6_24.tif
+CTN0015_Day6-001_Position(39).zvi.tif	CTN015_Day6_25.tif
+CTN0015_Day6-001_Position(40).zvi.tif	CTN015_Day6_26.tif
+CTN0015_Day6-001_Position(41).zvi.tif	CTN015_Day6_27.tif
+CTN0015_Day6-001_Position(42).zvi.tif	CTN015_Day6_28.tif
+CTN0015_Day6-001_Position(43).zvi.tif	CTN015_Day6_29.tif
+CTN0015_Day6-001_Position(44).zvi.tif	CTN015_Day6_30.tif
+CTN0015_Day6-001_Position(45).zvi.tif	CTN015_Day6_31.tif
+CTN002_Day6_B1-018_AB01_01.zvi.tif	CTN002_Day6_01.tif
+CTN002_Day6_B1-018_AB01_02.zvi.tif	CTN002_Day6_02.tif
+CTN002_Day6_B1-018_AB01_03.zvi.tif	CTN002_Day6_03.tif
+CTN002_Day6_B1-018_AB01_04.zvi.tif	CTN002_Day6_04.tif
+CTN002_Day6_B1-018_AB01_05.zvi.tif	CTN002_Day6_05.tif
+CTN002_Day6_B1-018_AB01_06.zvi.tif	CTN002_Day6_06.tif
+CTN002_Day6_B1-018_AB01_07.zvi.tif	CTN002_Day6_07.tif
+CTN002_Day6_B1-018_AB01_08.zvi.tif	CTN002_Day6_08.tif
+CTN002_Day6_B1-018_AB01_09.zvi.tif	CTN002_Day6_09.tif
+CTN002_Day6_B1-018_AB01_10.zvi.tif	CTN002_Day6_10.tif
+CTN002_Day6_B1-018_AB01_11.zvi.tif	CTN002_Day6_11.tif
+CTN002_Day6_B1-018_AB01_12.zvi.tif	CTN002_Day6_12.tif
+CTN002_Day6_B3-017_AB03_01.zvi.tif	CTN002_Day6_13.tif
+CTN002_Day6_B3-017_AB03_02.zvi.tif	CTN002_Day6_14.tif
+CTN002_Day6_B3-017_AB03_03.zvi.tif	CTN002_Day6_15.tif
+CTN002_Day6_B3-017_AB03_04.zvi.tif	CTN002_Day6_16.tif
+CTN002_Day6_B3-017_AB03_05.zvi.tif	CTN002_Day6_17.tif
+CTN002_Day6_B3-017_AB03_06.zvi.tif	CTN002_Day6_18.tif
+CTN002_Day6_B3-017_AB03_07.zvi.tif	CTN002_Day6_19.tif
+CTN002_Day6_B3-017_AB03_08.zvi.tif	CTN002_Day6_20.tif
+CTN002_Day6_B3-017_AB03_09.zvi.tif	CTN002_Day6_21.tif
+CTN002_Day6_B3-017_AB03_10.zvi.tif	CTN002_Day6_22.tif
+CTN002_Day6_B3-017_AB03_11.zvi.tif	CTN002_Day6_23.tif
+CTN002_Day6_B3-017_AB03_12.zvi.tif	CTN002_Day6_24.tif
+CTN002_Day6_B3-017_AB03_13.zvi.tif	CTN002_Day6_25.tif
+CTN002_Day6_B3-017_AB03_14.zvi.tif	CTN002_Day6_26.tif
+CTN004_Day6-013_Position(173).zvi.tif	CTN004_Day6_01.tif
+CTN004_Day6-013_Position(174).zvi.tif	CTN004_Day6_02.tif
+CTN004_Day6-013_Position(175).zvi.tif	CTN004_Day6_03.tif
+CTN004_Day6-013_Position(176).zvi.tif	CTN004_Day6_04.tif
+CTN004_Day6-013_Position(177).zvi.tif	CTN004_Day6_05.tif
+CTN004_Day6-013_Position(178).zvi.tif	CTN004_Day6_06.tif
+CTN004_Day6-013_Position(179).zvi.tif	CTN004_Day6_07.tif
+CTN007_Day6-002_AB03_01.zvi.tif	CTN007_Day6_01.tif
+CTN007_Day6-002_AB03_02.zvi.tif	CTN007_Day6_02.tif
+CTN007_Day6-002_AB03_03.zvi.tif	CTN007_Day6_03.tif
+CTN007_Day6-002_AB03_04.zvi.tif	CTN007_Day6_04.tif
+CTN007_Day6-002_AB03_05.zvi.tif	CTN007_Day6_05.tif
+CTN007_Day6-002_AB03_06.zvi.tif	CTN007_Day6_06.tif
+CTN007_Day6-002_AB03_07.zvi.tif	CTN007_Day6_07.tif
+CTN007_Day6-002_AB03_08.zvi.tif	CTN007_Day6_08.tif
+CTN009_Day6-002_Position(46).zvi.tif	CTN009_Day6_01.tif
+CTN009_Day6-002_Position(47).zvi.tif	CTN009_Day6_02.tif
+CTN009_Day6-002_Position(48).zvi.tif	CTN009_Day6_03.tif
+CTN009_Day6-002_Position(49).zvi.tif	CTN009_Day6_04.tif
+CTN009_Day6-002_Position(50).zvi.tif	CTN009_Day6_05.tif
+CTN009_Day6-002_Position(51).zvi.tif	CTN009_Day6_06.tif
+CTN009_Day6-002_Position(52).zvi.tif	CTN009_Day6_07.tif
+CTN009_Day6-002_Position(53).zvi.tif	CTN009_Day6_08.tif
+CTN009_Day6-002_Position(54).zvi.tif	CTN009_Day6_09.tif
+CTN009_Day6-002_Position(55).zvi.tif	CTN009_Day6_10.tif
+CTN009_Day6-002_Position(56).zvi.tif	CTN009_Day6_11.tif
+CTN009_Day6-002_Position(57).zvi.tif	CTN009_Day6_12.tif
+CTN009_Day6-002_Position(58).zvi.tif	CTN009_Day6_13.tif
+CTN009_Day6-002_Position(59).zvi.tif	CTN009_Day6_14.tif
+CTN009_Day6-002_Position(60).zvi.tif	CTN009_Day6_15.tif
+CTN009_Day6-002_Position(61).zvi.tif	CTN009_Day6_16.tif
+CTN009_Day6-002_Position(62).zvi.tif	CTN009_Day6_17.tif
+CTN009_Day6-002_Position(63).zvi.tif	CTN009_Day6_18.tif
+CTN009_Day6-002_Position(64).zvi.tif	CTN009_Day6_19.tif
+CTN009_Day6-002_Position(65).zvi.tif	CTN009_Day6_20.tif
+CTN009_Day6-002_Position(66).zvi.tif	CTN009_Day6_21.tif
+CTN010_Day6-003_AC04_01.zvi.tif	CTN010_Day6_01.tif
+CTN010_Day6-003_AC04_02.zvi.tif	CTN010_Day6_02.tif
+CTN010_Day6-003_AC04_03.zvi.tif	CTN010_Day6_03.tif
+CTN010_Day6-003_AC04_04.zvi.tif	CTN010_Day6_04.tif
+CTN010_Day6-003_AC04_05.zvi.tif	CTN010_Day6_05.tif
+CTN010_Day6-003_AC04_06.zvi.tif	CTN010_Day6_06.tif
+CTN010_Day6-003_AC04_07.zvi.tif	CTN010_Day6_07.tif
+CTN010_Day6-003_AC04_08.zvi.tif	CTN010_Day6_08.tif
+CTN010_Day6-003_AC04_09.zvi.tif	CTN010_Day6_09.tif
+CTN010_Day6-003_AC04_10.zvi.tif	CTN010_Day6_10.tif
+CTN010_Day6-003_AC04_11.zvi.tif	CTN010_Day6_11.tif
+CTN010_Day6-003_AC04_12.zvi.tif	CTN010_Day6_12.tif
+CTN010_Day6-003_AC04_13.zvi.tif	CTN010_Day6_13.tif
+CTN010_Day6-003_AC04_14.zvi.tif	CTN010_Day6_14.tif
+CTN010_Day6-003_AC04_15.zvi.tif	CTN010_Day6_15.tif
+CTN010_Day6-003_AC04_16.zvi.tif	CTN010_Day6_16.tif
+CTN010_Day6-003_AC04_17.zvi.tif	CTN010_Day6_17.tif
+CTN010_Day6-003_AC04_18.zvi.tif	CTN010_Day6_18.tif
+CTN010_Day6-003_AC04_19.zvi.tif	CTN010_Day6_19.tif
+CTN010_Day6-003_AC04_20.zvi.tif	CTN010_Day6_20.tif
+CTN010_Day6-003_AC04_21.zvi.tif	CTN010_Day6_21.tif
+CTN010_Day6-003_AC04_22.zvi.tif	CTN010_Day6_22.tif
+CTN010_Day6-003_AC04_23.zvi.tif	CTN010_Day6_23.tif
+CTN010_Day6-003_AC04_24.zvi.tif	CTN010_Day6_24.tif
+CTN010_Day6-003_AC04_25.zvi.tif	CTN010_Day6_25.tif
+CTN010_Day6-003_AC04_26.zvi.tif	CTN010_Day6_26.tif
+CTN010_Day6-003_AC04_27.zvi.tif	CTN010_Day6_27.tif
+CTN010_Day6-003_AC04_29.zvi.tif	CTN010_Day6_29.tif
+CTN010_Day6-003_AC04_31.zvi.tif	CTN010_Day6_31.tif
+CTN010_Day6-003_AC04_32.zvi.tif	CTN010_Day6_32.tif
+CTN010_Day6-003_AC04_33.zvi.tif	CTN010_Day6_33.tif
+CTN010_Day6-003_AC04_34.zvi.tif	CTN010_Day6_34.tif
+CTN010_Day6-003_AC04_35.zvi.tif	CTN010_Day6_35.tif
+CTN010_Day6-003_AC04_36.zvi.tif	CTN010_Day6_36.tif
+CTN010_Day6-003_AC04_37.zvi.tif	CTN010_Day6_37.tif
+CTN010_Day6-003_AC04_38.zvi.tif	CTN010_Day6_38.tif
+CTN010_Day6-003_AC04_39.zvi.tif	CTN010_Day6_39.tif
+CTN010_Day6-003_AC04_40.zvi.tif	CTN010_Day6_40.tif
+CTN010_Day6-003_AC04_41.zvi.tif	CTN010_Day6_41.tif
+CTN010_Day6-003_AC04_42.zvi.tif	CTN010_Day6_42.tif
+CTN010_Day6-003_AC04_43.zvi.tif	CTN010_Day6_43.tif
+CTN010_Day6-003_AC04_44.zvi.tif	CTN010_Day6_44.tif
+CTN010_Day6-003_AC04_45.zvi.tif	CTN010_Day6_45.tif
+CTN010_Day6-003_AC04_46.zvi.tif	CTN010_Day6_46.tif
+CTN011_Day6-001_AB02_01.zvi.tif	CTN011_Day6_01.tif
+CTN011_Day6-001_AB02_02.zvi.tif	CTN011_Day6_02.tif
+CTN011_Day6-001_AB02_03.zvi.tif	CTN011_Day6_03.tif
+CTN011_Day6-001_AB02_04.zvi.tif	CTN011_Day6_04.tif
+CTN011_Day6-001_AB02_05.zvi.tif	CTN011_Day6_05.tif
+CTN011_Day6-001_AB02_06.zvi.tif	CTN011_Day6_06.tif
+CTN011_Day6-001_AB02_07.zvi.tif	CTN011_Day6_07.tif
+CTN011_Day6-001_AB02_08.zvi.tif	CTN011_Day6_08.tif
+CTN011_Day6-001_AB02_09.zvi.tif	CTN011_Day6_09.tif
+CTN011_Day6-001_AB02_10.zvi.tif	CTN011_Day6_10.tif
+CTN011_Day6-001_AB02_11.zvi.tif	CTN011_Day6_11.tif
+CTN011_Day6-001_AB02_12.zvi.tif	CTN011_Day6_12.tif
+CTN011_Day6-001_AB02_13.zvi.tif	CTN011_Day6_13.tif
+CTN011_Day6-001_AB02_14.zvi.tif	CTN011_Day6_14.tif
+CTN011_Day6-001_AB02_15.zvi.tif	CTN011_Day6_15.tif
+CTN011_Day6-001_AB02_16.zvi.tif	CTN011_Day6_16.tif
+CTN011_Day6-001_AB02_17.zvi.tif	CTN011_Day6_17.tif
+CTN011_Day6-001_AB02_18.zvi.tif	CTN011_Day6_18.tif
+CTN011_Day6-001_AB02_19.zvi.tif	CTN011_Day6_19.tif
+CTN011_Day6-001_AB02_20.zvi.tif	CTN011_Day6_20.tif
+CTN011_Day6-001_AB02_21.zvi.tif	CTN011_Day6_21.tif
+CTN011_Day6-001_AB02_22.zvi.tif	CTN011_Day6_22.tif
+CTN011_Day6-001_AB02_23.zvi.tif	CTN011_Day6_23.tif
+CTN011_Day6-001_AB02_24.zvi.tif	CTN011_Day6_24.tif
+CTN011_Day6-001_AB02_25.zvi.tif	CTN011_Day6_25.tif
+CTN011_Day6-001_AB02_26.zvi.tif	CTN011_Day6_26.tif
+CTN011_Day6-001_AB02_27.zvi.tif	CTN011_Day6_27.tif
+CTN011_Day6-001_AB02_28.zvi.tif	CTN011_Day6_28.tif
+CTN011_Day6-001_AB02_29.zvi.tif	CTN011_Day6_29.tif
+CTN011_Day6-001_AB02_30.zvi.tif	CTN011_Day6_30.tif
+CTN011_Day6-001_AB02_31.zvi.tif	CTN011_Day6_51.tif
+CTN011_Day6-001_AB02_32.zvi.tif	CTN011_Day6_52.tif
+CTN011_Day6-001_AB02_33.zvi.tif	CTN011_Day6_53.tif
+CTN011_Day6-001_AB02_34.zvi.tif	CTN011_Day6_54.tif
+CTN011_Day6-001_AB02_35.zvi.tif	CTN011_Day6_55.tif
+CTN011_Day6-001_AB02_36.zvi.tif	CTN011_Day6_56.tif
+CTN011_Day6-001_AB02_37.zvi.tif	CTN011_Day6_57.tif
+CTN011_Day6-001_AB02_38.zvi.tif	CTN011_Day6_58.tif
+CTN011_Day6-001_AB02_39.zvi.tif	CTN011_Day6_59.tif
+CTN011_Day6-001_AB02_40.zvi.tif	CTN011_Day6_60.tif
+CTN011_Day6-001_AB02_41.zvi.tif	CTN011_Day6_61.tif
+CTN011_Day6-001_AB02_42.zvi.tif	CTN011_Day6_62.tif
+CTN011_Day6-001_AB02_43.zvi.tif	CTN011_Day6_63.tif
+CTN011_Day6-001_AB02_44.zvi.tif	CTN011_Day6_64.tif
+CTN011_Day6-001_AB02_45.zvi.tif	CTN011_Day6_65.tif
+CTN011_Day6-001_AB02_46.zvi.tif	CTN011_Day6_66.tif
+CTN011_Day6-001_AB02_47.zvi.tif	CTN011_Day6_67.tif
+CTN011_Day6-001_AB02_48.zvi.tif	CTN011_Day6_68.tif
+CTN014_Day6-009_AB02_01.zvi.tif	CTN014_Day6_01.tif
+CTN014_Day6-009_AB02_02.zvi.tif	CTN014_Day6_02.tif
+CTN014_Day6-009_AB02_03.zvi.tif	CTN014_Day6_03.tif
+CTN014_Day6-009_AB02_04.zvi.tif	CTN014_Day6_04.tif
+CTN014_Day6-009_AB02_05.zvi.tif	CTN014_Day6_05.tif
+CTN014_Day6-009_AB02_06.zvi.tif	CTN014_Day6_06.tif
+CTN014_Day6-009_AB02_07.zvi.tif	CTN014_Day6_07.tif
+CTN016_Day6-010_AB02_01.zvi.tif	CTN016_Day6_01.tif
+CTN016_Day6-010_AB02_02.zvi.tif	CTN016_Day6_02.tif
+CTN016_Day6-010_AB03_01.zvi.tif	CTN016_Day6_03.tif
+CTN018_Day6-012_Position(165).zvi.tif	CTN018_Day6_01.tif
+CTN018_Day6-012_Position(166).zvi.tif	CTN018_Day6_02.tif
+CTN018_Day6-012_Position(167).zvi.tif	CTN018_Day6_03.tif
+CTN018_Day6-012_Position(168).zvi.tif	CTN018_Day6_04.tif
+CTN018_Day6-012_Position(169).zvi.tif	CTN018_Day6_05.tif
+CTN018_Day6-012_Position(170).zvi.tif	CTN018_Day6_06.tif
+CTN018_Day6-012_Position(171).zvi.tif	CTN018_Day6_07.tif
+CTN018_Day6-012_Position(172).zvi.tif	CTN018_Day6_08.tif
+CTN019d6 K14-05_AB02_01.zvi.tif	CTN019_Day6_01.tif
+CTN019d6 K14-05_AB02_02.zvi.tif	CTN019_Day6_02.tif
+CTN019d6 K14-05_AB02_03.zvi.tif	CTN019_Day6_03.tif
+CTN019d6 K14-05_AB02_04.zvi.tif	CTN019_Day6_04.tif
+CTN019d6 K14-05_AB02_05.zvi.tif	CTN019_Day6_05.tif
+CTN019d6 K14-05_AB02_06.zvi.tif	CTN019_Day6_06.tif
+CTN019d6 K14-05_AB02_07.zvi.tif	CTN019_Day6_07.tif
+CTN019d6 K14-05_AB02_08.zvi.tif	CTN019_Day6_08.tif
+CTN019d6 K14-05_AB02_09.zvi.tif	CTN019_Day6_09.tif
+CTN019d6 K14-05_AB02_10.zvi.tif	CTN019_Day6_10.tif
+CTN019d6 K14-05_AB02_11.zvi.tif	CTN019_Day6_11.tif
+CTN019d6 K14-05_AB02_12.zvi.tif	CTN019_Day6_12.tif
+CTN019d6 K14-05_AB02_13.zvi.tif	CTN019_Day6_13.tif
+CTN019d6 K14-05_AB02_14.zvi.tif	CTN019_Day6_14.tif
+CTN019d6 K14-05_AB02_15.zvi.tif	CTN019_Day6_15.tif
+CTN019d6 K14-05_AB02_16.zvi.tif	CTN019_Day6_16.tif
+CTN019d6 K14-05_AB02_17.zvi.tif	CTN019_Day6_17.tif
+CTN019d6 K14-05_AB02_18.zvi.tif	CTN019_Day6_18.tif
+CTN019d6 K14-05_AB02_19.zvi.tif	CTN019_Day6_19.tif
+CTN019d6 K14-05_AB02_20.zvi.tif	CTN019_Day6_20.tif
+CTN019d6 K14-05_AB02_22.zvi.tif	CTN019_Day6_22.tif
+CTN019d6 K14-05_AB02_23.zvi.tif	CTN019_Day6_23.tif
+CTN019d6 K14-05_AB02_24.zvi.tif	CTN019_Day6_24.tif
+CTN019d6 K14-05_AB02_25.zvi.tif	CTN019_Day6_25.tif
+CTN019d6 K14-05_AB02_26.zvi.tif	CTN019_Day6_26.tif
+CTN019d6 K14-05_AB02_28.zvi.tif	CTN019_Day6_27.tif
+CTN019d6 K14-05_AB02_29.zvi.tif	CTN019_Day6_28.tif
+CTN019d6 K14-05_AB02_30.zvi.tif	CTN019_Day6_29.tif
+CTN019d6 K14-05_AB02_31.zvi.tif	CTN019_Day6_30.tif
+CTN019d6 K14-05_AB02_32.zvi.tif	CTN019_Day6_31.tif
+CTN019d6 K14-05_AB02_34.zvi.tif	CTN019_Day6_33.tif
+CTN019d6 K14-05_AB02_35.zvi.tif	CTN019_Day6_34.tif
+CTN019d6 K14-05_AB02_36.zvi.tif	CTN019_Day6_35.tif
+CTN019d6 K14-05_AB02_37.zvi.tif	CTN019_Day6_36.tif
+CTN019d6 K14-05_AB02_38.zvi.tif	CTN019_Day6_37.tif
+CTN019d6 K14-05_AB02_39.zvi.tif	CTN019_Day6_38.tif
+CTN019d6 K14-05_AB02_41.zvi.tif	CTN019_Day6_39.tif
+CTN019d6 K14-05_AB02_42.zvi.tif	CTN019_Day6_40.tif
+CTN019d6 K14-05_AB02_44.zvi.tif	CTN019_Day6_41.tif
+CTN019d6 K14-05_AB02_45.zvi.tif	CTN019_Day6_42.tif
+CTN019d6 K14-05_AB02_46.zvi.tif	CTN019_Day6_43.tif
+CTN021d6 K14-07_Position(1).zvi.tif	CTN021_Day6_01.tif
+CTN021d6 K14-07_Position(10).zvi.tif	CTN021_Day6_10.tif
+CTN021d6 K14-07_Position(11).zvi.tif	CTN021_Day6_11.tif
+CTN021d6 K14-07_Position(12).zvi.tif	CTN021_Day6_12.tif
+CTN021d6 K14-07_Position(13).zvi.tif	CTN021_Day6_13.tif
+CTN021d6 K14-07_Position(14).zvi.tif	CTN021_Day6_14.tif
+CTN021d6 K14-07_Position(15).zvi.tif	CTN021_Day6_15.tif
+CTN021d6 K14-07_Position(16).zvi.tif	CTN021_Day6_16.tif
+CTN021d6 K14-07_Position(17).zvi.tif	CTN021_Day6_17.tif
+CTN021d6 K14-07_Position(18).zvi.tif	CTN021_Day6_18.tif
+CTN021d6 K14-07_Position(19).zvi.tif	CTN021_Day6_19.tif
+CTN021d6 K14-07_Position(2).zvi.tif	CTN021_Day6_02.tif
+CTN021d6 K14-07_Position(20).zvi.tif	CTN021_Day6_20.tif
+CTN021d6 K14-07_Position(21).zvi.tif	CTN021_Day6_21.tif
+CTN021d6 K14-07_Position(22).zvi.tif	CTN021_Day6_22.tif
+CTN021d6 K14-07_Position(23).zvi.tif	CTN021_Day6_23.tif
+CTN021d6 K14-07_Position(24).zvi.tif	CTN021_Day6_24.tif
+CTN021d6 K14-07_Position(25).zvi.tif	CTN021_Day6_25.tif
+CTN021d6 K14-07_Position(26).zvi.tif	CTN021_Day6_26.tif
+CTN021d6 K14-07_Position(27).zvi.tif	CTN021_Day6_27.tif
+CTN021d6 K14-07_Position(28).zvi.tif	CTN021_Day6_28.tif
+CTN021d6 K14-07_Position(29).zvi.tif	CTN021_Day6_29.tif
+CTN021d6 K14-07_Position(3).zvi.tif	CTN021_Day6_03.tif
+CTN021d6 K14-07_Position(30).zvi.tif	CTN021_Day6_30.tif
+CTN021d6 K14-07_Position(31).zvi.tif	CTN021_Day6_31.tif
+CTN021d6 K14-07_Position(32).zvi.tif	CTN021_Day6_32.tif
+CTN021d6 K14-07_Position(33).zvi.tif	CTN021_Day6_33.tif
+CTN021d6 K14-07_Position(34).zvi.tif	CTN021_Day6_34.tif
+CTN021d6 K14-07_Position(35).zvi.tif	CTN021_Day6_35.tif
+CTN021d6 K14-07_Position(36).zvi.tif	CTN021_Day6_36.tif
+CTN021d6 K14-07_Position(37).zvi.tif	CTN021_Day6_37.tif
+CTN021d6 K14-07_Position(38).zvi.tif	CTN021_Day6_38.tif
+CTN021d6 K14-07_Position(39).zvi.tif	CTN021_Day6_39.tif
+CTN021d6 K14-07_Position(4).zvi.tif	CTN021_Day6_04.tif
+CTN021d6 K14-07_Position(40).zvi.tif	CTN021_Day6_40.tif
+CTN021d6 K14-07_Position(41).zvi.tif	CTN021_Day6_41.tif
+CTN021d6 K14-07_Position(43).zvi.tif	CTN021_Day6_42.tif
+CTN021d6 K14-07_Position(44).zvi.tif	CTN021_Day6_43.tif
+CTN021d6 K14-07_Position(45).zvi.tif	CTN021_Day6_44.tif
+CTN021d6 K14-07_Position(46).zvi.tif	CTN021_Day6_45.tif
+CTN021d6 K14-07_Position(48).zvi.tif	CTN021_Day6_46.tif
+CTN021d6 K14-07_Position(49).zvi.tif	CTN021_Day6_47.tif
+CTN021d6 K14-07_Position(5).zvi.tif	CTN021_Day6_05.tif
+CTN021d6 K14-07_Position(50).zvi.tif	CTN021_Day6_48.tif
+CTN021d6 K14-07_Position(51).zvi.tif	CTN021_Day6_49.tif
+CTN021d6 K14-07_Position(52).zvi.tif	CTN021_Day6_50.tif
+CTN021d6 K14-07_Position(6).zvi.tif	CTN021_Day6_06.tif
+CTN021d6 K14-07_Position(7).zvi.tif	CTN021_Day6_07.tif
+CTN021d6 K14-07_Position(8).zvi.tif	CTN021_Day6_08.tif
+CTN021d6 K14-07_Position(9).zvi.tif	CTN021_Day6_09.tif
+CTN024-01_AC01_01.zvi.tif	CTN024_Day6_01.tif
+CTN024-01_AC01_02.zvi.tif	CTN024_Day6_02.tif
+CTN024-01_AC01_03.zvi.tif	CTN024_Day6_03.tif
+CTN024-01_AC01_04.zvi.tif	CTN024_Day6_04.tif
+CTN024-01_AC01_06.zvi.tif	CTN024_Day6_05.tif
+CTN024-01_AC01_07.zvi.tif	CTN024_Day6_06.tif
+CTN024-01_AC01_09.zvi.tif	CTN024_Day6_08.tif
+CTN024-01_AC01_10.zvi.tif	CTN024_Day6_09.tif
+CTN024-01_AC01_11.zvi.tif	CTN024_Day6_10.tif
+CTN024-01_AC01_13.zvi.tif	CTN024_Day6_11.tif
+CTN024-01_AC01_131.zvi.tif	CTN024_Day6_16.tif
+CTN024-01_AC01_14.zvi.tif	CTN024_Day6_12.tif
+CTN024-01_AC01_141.zvi.tif	CTN024_Day6_17.tif
+CTN024-01_AC01_15.zvi.tif	CTN024_Day6_13.tif
+CTN024-01_AC01_16.zvi.tif	CTN024_Day6_14.tif
+CTN024-01_AC01_17.zvi.tif	CTN024_Day6_15.tif
+CTN05_Day6-008_AB02_01.zvi.tif	CTN005_Day6_01.tif
+CTN05_Day6-008_AB02_02.zvi.tif	CTN005_Day6_02.tif
+CTN05_Day6-008_AB02_03.zvi.tif	CTN005_Day6_03.tif
+CTN05_Day6-008_AB02_04.zvi.tif	CTN005_Day6_04.tif
+CTN05_Day6-008_AB02_05.zvi.tif	CTN005_Day6_05.tif
+CTN05_Day6-008_AB02_06.zvi.tif	CTN005_Day6_06.tif
+CTN05_Day6-008_AB02_07.zvi.tif	CTN005_Day6_07.tif
+CTN05_Day6-008_AB02_09.zvi.tif	CTN005_Day6_08.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_01.zvi.tif	CTN036_Day6_01.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_02.zvi.tif	CTN036_Day6_02.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_03.zvi.tif	CTN036_Day6_03.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_04.zvi.tif	CTN036_Day6_04.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_05.zvi.tif	CTN036_Day6_05.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_06.zvi.tif	CTN036_Day6_06.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_07.zvi.tif	CTN036_Day6_07.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_08.zvi.tif	CTN036_Day6_08.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_09.zvi.tif	CTN036_Day6_09.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_10.zvi.tif	CTN036_Day6_10.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_11.zvi.tif	CTN036_Day6_11.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_12.zvi.tif	CTN036_Day6_12.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_14.zvi.tif	CTN036_Day6_14.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_17.zvi.tif	CTN036_Day6_17.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_18.zvi.tif	CTN036_Day6_18.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_19.zvi.tif	CTN036_Day6_19.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_20.zvi.tif	CTN036_Day6_20.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_21.zvi.tif	CTN036_Day6_21.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_22.zvi.tif	CTN036_Day6_22.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_23.zvi.tif	CTN036_Day6_23.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_24.zvi.tif	CTN036_Day6_24.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_25.zvi.tif	CTN036_Day6_25.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_26.zvi.tif	CTN036_Day6_26.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_27.zvi.tif	CTN036_Day6_27.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_33.zvi.tif	CTN036_Day6_33.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_34.zvi.tif	CTN036_Day6_34.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_36.zvi.tif	CTN036_Day6_35.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_37.zvi.tif	CTN036_Day6_36.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_38.zvi.tif	CTN036_Day6_37.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_39.zvi.tif	CTN036_Day6_38.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_40.zvi.tif	CTN036_Day6_39.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_42.zvi.tif	CTN036_Day6_41.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_47.zvi.tif	CTN036_Day6_46.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_48.zvi.tif	CTN036_Day6_47.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_49.zvi.tif	CTN036_Day6_48.tif
+CTN036 d6 Tumor K14, SMA, Phal wellb3-02_AB03_53.zvi.tif	CTN036_Day6_52.tif
+CTN037 d6 Tumor-13_Position(55).tif_Files.tif	CTN037_Day6_01.tif
+CTN037 d6 Tumor-13_Position(56).tif_Files.tif	CTN037_Day6_02.tif
+CTN037 d6 Tumor-13_Position(57).tif_Files.tif	CTN037_Day6_03.tif
+CTN037 d6 Tumor-13_Position(58).tif_Files.tif	CTN037_Day6_04.tif
+CTN037 d6 Tumor-13_Position(59).tif_Files.tif	CTN037_Day6_05.tif
+CTN037 d6 Tumor-13_Position(60).tif_Files.tif	CTN037_Day6_06.tif
+CTN038 d6 Tumor-18_Position(120).tif_Files.tif	CTN038_Day6_01.tif
+CTN038 d6 Tumor-18_Position(121).tif_Files.tif	CTN038_Day6_02.tif
+CTN038 d6 Tumor-18_Position(122).tif_Files.tif	CTN038_Day6_03.tif
+CTN038 d6 Tumor-18_Position(123).tif_Files.tif	CTN038_Day6_04.tif
+CTN039 d6 Tumor-22_Position(176).tif_Files.tif	CTN039_Day6_01.tif
+CTN039 d6 Tumor-22_Position(178).tif_Files.tif	CTN039_Day6_03.tif
+CTN039 d6 Tumor-22_Position(180).tif_Files.tif	CTN039_Day6_05.tif
+CTN039 d6 Tumor-22_Position(181).tif_Files.tif	CTN039_Day6_06.tif
+CTN039 d6 Tumor-22_Position(182).tif_Files.tif	CTN039_Day6_07.tif
+CTN039 d6 Tumor-22_Position(183).tif_Files.tif	CTN039_Day6_08.tif
+CTN039 d6 Tumor-22_Position(186).tif_Files.tif	CTN039_Day6_11.tif
+CTN039 d6 Tumor-22_Position(187).tif_Files.tif	CTN039_Day6_12.tif
+CTN039 d6 Tumor-22_Position(188).tif_Files.tif	CTN039_Day6_13.tif
+CTN039 d6 Tumor-22_Position(189).tif_Files.tif	CTN039_Day6_14.tif
+CTN039 d6 Tumor-22_Position(190).tif_Files.tif	CTN039_Day6_15.tif
+CTN041 d6 Tumor-03_Position(337).tif_Files.tif	CTN041_Day6_01.tif
+CTN041 d6 Tumor-03_Position(338).tif_Files.tif	CTN041_Day6_02.tif
+CTN041 d6 Tumor-03_Position(339).tif_Files.tif	CTN041_Day6_03.tif
+CTN041 d6 Tumor-03_Position(340).tif_Files.tif	CTN041_Day6_04.tif
+CTN041 d6 Tumor-03_Position(341).tif_Files.tif	CTN041_Day6_05.tif
+CTN041 d6 Tumor-03_Position(342).tif_Files.tif	CTN041_Day6_06.tif
+CTN041 d6 Tumor-03_Position(343).tif_Files.tif	CTN041_Day6_07.tif
+CTN041 d6 Tumor-03_Position(344).tif_Files.tif	CTN041_Day6_08.tif
+CTN041 d6 Tumor-03_Position(345).tif_Files.tif	CTN041_Day6_09.tif
+CTN041 d6 Tumor-03_Position(346).tif_Files.tif	CTN041_Day6_10.tif
+CTN041 d6 Tumor-03_Position(347).tif_Files.tif	CTN041_Day6_11.tif
+CTN041 d6 Tumor-03_Position(348).tif_Files.tif	CTN041_Day6_12.tif
+CTN041 d6 Tumor-03_Position(349).tif_Files.tif	CTN041_Day6_13.tif
+CTN041 d6 Tumor-03_Position(350).tif_Files.tif	CTN041_Day6_14.tif
+CTN041 d6 Tumor-03_Position(351).tif_Files.tif	CTN041_Day6_15.tif
+CTN041 d6 Tumor-03_Position(352).tif_Files.tif	CTN041_Day6_16.tif
+CTN041 d6 Tumor-03_Position(353).tif_Files.tif	CTN041_Day6_17.tif
+CTN041 d6 Tumor-03_Position(354).tif_Files.tif	CTN041_Day6_18.tif
+CTN041 d6 Tumor-03_Position(355).tif_Files.tif	CTN041_Day6_19.tif
+CTN041 d6 Tumor-03_Position(356).tif_Files.tif	CTN041_Day6_20.tif
+CTN041 d6 Tumor-03_Position(357).tif_Files.tif	CTN041_Day6_21.tif
+CTN041 d6 Tumor-03_Position(358).tif_Files.tif	CTN041_Day6_22.tif
+CTN041 d6 Tumor-03_Position(359).tif_Files.tif	CTN041_Day6_23.tif
+CTN041 d6 Tumor-03_Position(360).tif_Files.tif	CTN041_Day6_24.tif
+CTN041 d6 Tumor-03_Position(361).tif_Files.tif	CTN041_Day6_25.tif
+CTN041 d6 Tumor-03_Position(362).tif_Files.tif	CTN041_Day6_26.tif
+CTN041 d6 Tumor-03_Position(363).tif_Files.tif	CTN041_Day6_27.tif
+CTN041 d6 Tumor-03_Position(364).tif_Files.tif	CTN041_Day6_28.tif
+CTN041 d6 Tumor-03_Position(365).tif_Files.tif	CTN041_Day6_29.tif
+CTN041 d6 Tumor-03_Position(366).tif_Files.tif	CTN041_Day6_30.tif
+CTN041 d6 Tumor-03_Position(367).tif_Files.tif	CTN041_Day6_31.tif
+CTN041 d6 Tumor-03_Position(368).tif_Files.tif	CTN041_Day6_32.tif
+CTN041 d6 Tumor-03_Position(369).tif_Files.tif	CTN041_Day6_33.tif
+CTN041 d6 Tumor-03_Position(370).tif_Files.tif	CTN041_Day6_34.tif
+CTn042 d6 K14-02_Position(173).zvi.tif	CTN042_Day6_01.tif
+CTn042 d6 K14-02_Position(174).zvi.tif	CTN042_Day6_02.tif
+CTn042 d6 K14-02_Position(175).zvi.tif	CTN042_Day6_03.tif
+CTn042 d6 K14-02_Position(176).zvi.tif	CTN042_Day6_04.tif
+CTn042 d6 K14-02_Position(177).zvi.tif	CTN042_Day6_05.tif
+CTn042 d6 K14-02_Position(178).zvi.tif	CTN042_Day6_06.tif
+CTn042 d6 K14-02_Position(179).zvi.tif	CTN042_Day6_07.tif
+CTn042 d6 K14-02_Position(180).zvi.tif	CTN042_Day6_08.tif
+CTn042 d6 K14-02_Position(181).zvi.tif	CTN042_Day6_09.tif
+CTn042 d6 K14-02_Position(182).zvi.tif	CTN042_Day6_10.tif
+CTn042 d6 K14-02_Position(183).zvi.tif	CTN042_Day6_11.tif
+CTn042 d6 K14-02_Position(184).zvi.tif	CTN042_Day6_12.tif
+CTn042 d6 K14-02_Position(185).zvi.tif	CTN042_Day6_13.tif
+CTn042 d6 K14-02_Position(186).zvi.tif	CTN042_Day6_14.tif
+CTn042 d6 K14-02_Position(187).zvi.tif	CTN042_Day6_15.tif
+CTn042 d6 K14-02_Position(188).zvi.tif	CTN042_Day6_16.tif
+CTn042 d6 K14-02_Position(189).zvi.tif	CTN042_Day6_17.tif
+CTn042 d6 K14-02_Position(190).zvi.tif	CTN042_Day6_18.tif
+CTn042 d6 K14-02_Position(191).zvi.tif	CTN042_Day6_19.tif
+CTn042 d6 K14-02_Position(192).zvi.tif	CTN042_Day6_20.tif
+CTn042 d6 K14-02_Position(193).zvi.tif	CTN042_Day6_21.tif
+CTn042 d6 K14-02_Position(194).zvi.tif	CTN042_Day6_22.tif
+CTn042 d6 K14-02_Position(195).zvi.tif	CTN042_Day6_23.tif
+CTn042 d6 K14-02_Position(196).zvi.tif	CTN042_Day6_24.tif
+CTn042 d6 K14-02_Position(197).zvi.tif	CTN042_Day6_25.tif
+CTn042 d6 K14-02_Position(198).zvi.tif	CTN042_Day6_26.tif
+CTn042 d6 K14-02_Position(200).zvi.tif	CTN042_Day6_27.tif
+CTn042 d6 K14-02_Position(201).zvi.tif	CTN042_Day6_28.tif
+CTn042 d6 K14-02_Position(202).zvi.tif	CTN042_Day6_29.tif
+CTn042 d6 K14-02_Position(203).zvi.tif	CTN042_Day6_30.tif
+CTn042 d6 K14-02_Position(204).zvi.tif	CTN042_Day6_31.tif
+CTn042 d6 K14-02_Position(205).zvi.tif	CTN042_Day6_32.tif
+CTn042 d6 K14-02_Position(206).zvi.tif	CTN042_Day6_33.tif
+CTn042 d6 K14-02_Position(207).zvi.tif	CTN042_Day6_34.tif
+CTn042 d6 K14-02_Position(208).zvi.tif	CTN042_Day6_35.tif
+CTn042 d6 K14-02_Position(209).zvi.tif	CTN042_Day6_36.tif
+CTn042 d6 K14-02_Position(210).zvi.tif	CTN042_Day6_37.tif
+CTn042 d6 K14-02_Position(211).zvi.tif	CTN042_Day6_38.tif
+CTn042 d6 K14-02_Position(212).zvi.tif	CTN042_Day6_39.tif
+CTn042 d6 K14-02_Position(213).zvi.tif	CTN042_Day6_40.tif
+CTn042 d6 K14-02_Position(214).zvi.tif	CTN042_Day6_41.tif
+CTn044 d6 tumor K14 -07_AA03_01.zvi.tif	CTN044_Day6_01.tif
+CTn044 d6 tumor K14 -07_AA03_02.zvi.tif	CTN044_Day6_02.tif
+CTn044 d6 tumor K14 -07_AA03_03.zvi.tif	CTN044_Day6_03.tif
+CTn044 d6 tumor K14 -07_AA03_04.zvi.tif	CTN044_Day6_04.tif
+CTn044 d6 tumor K14 -07_AA03_05.zvi.tif	CTN044_Day6_05.tif
+CTn044 d6 tumor K14 -07_AA03_06.zvi.tif	CTN044_Day6_06.tif
+CTn044 d6 tumor K14 -07_AA03_07.zvi.tif	CTN044_Day6_07.tif
+CTn044 d6 tumor K14 -07_AA03_08.zvi.tif	CTN044_Day6_08.tif
+CTn044 d6 tumor K14 -07_AA03_09.zvi.tif	CTN044_Day6_09.tif
+CTn044 d6 tumor K14 -07_AA04_01.zvi.tif	CTN044_Day6_10.tif
+CTn044 d6 tumor K14 -07_AA04_02.zvi.tif	CTN044_Day6_11.tif
+CTn044 d6 tumor K14 -07_AA04_03.zvi.tif	CTN044_Day6_12.tif
+CTn044 d6 tumor K14 -07_AA04_04.zvi.tif	CTN044_Day6_13.tif
+CTn045 d6 Tumor K14-17_AA03_01.zvi.tif	CTN045_Day6_01.tif
+CTn045 d6 Tumor K14-17_AA03_02.zvi.tif	CTN045_Day6_02.tif
+CTn045 d6 Tumor K14-17_AA04_01.zvi.tif	CTN045_Day6_03.tif
+CTn046 d6 Tumor K14-16_Position(46).zvi.tif	CTN046_Day6_01.tif
+CTn046 d6 Tumor K14-16_Position(47).zvi.tif	CTN046_Day6_02.tif
+CTn046 d6 Tumor K14-16_Position(48).zvi.tif	CTN046_Day6_03.tif
+CTn046 d6 Tumor K14-16_Position(49).zvi.tif	CTN046_Day6_04.tif
+CTn046 d6 Tumor K14-16_Position(50).zvi.tif	CTN046_Day6_05.tif
+CTn046 d6 Tumor K14-16_Position(51).zvi.tif	CTN046_Day6_06.tif
+CTn046 d6 Tumor K14-16_Position(52).zvi.tif	CTN046_Day6_07.tif
+CTn046 d6 Tumor K14-16_Position(53).zvi.tif	CTN046_Day6_08.tif
+CTn046 d6 Tumor K14-16_Position(54).zvi.tif	CTN046_Day6_09.tif
+CTn046 d6 Tumor K14-16_Position(55).zvi.tif	CTN046_Day6_10.tif
+CTn046 d6 Tumor K14-16_Position(56).zvi.tif	CTN046_Day6_11.tif
+CTn046 d6 Tumor K14-16_Position(57).zvi.tif	CTN046_Day6_12.tif
+CTn046 d6 Tumor K14-16_Position(58).zvi.tif	CTN046_Day6_13.tif
+CTn046 d6 Tumor K14-16_Position(59).zvi.tif	CTN046_Day6_14.tif
+CTn046 d6 Tumor K14-16_Position(60).zvi.tif	CTN046_Day6_15.tif
+CTn046 d6 Tumor K14-16_Position(61).zvi.tif	CTN046_Day6_16.tif
+CTn046 d6 Tumor K14-16_Position(62).zvi.tif	CTN046_Day6_17.tif
+CTn046 d6 Tumor K14-16_Position(63).zvi.tif	CTN046_Day6_18.tif
+CTn046 d6 Tumor K14-16_Position(64).zvi.tif	CTN046_Day6_19.tif
+CTn046 d6 Tumor K14-16_Position(65).zvi.tif	CTN046_Day6_20.tif
+CTN047 d6 Tumor-024_Position(37).tif_Files.tif	CTN047_Day6_01.tif
+CTN047 d6 Tumor-024_Position(38).tif_Files.tif	CTN047_Day6_02.tif
+CTN047 d6 Tumor-024_Position(39).tif_Files.tif	CTN047_Day6_03.tif
+CTN047 d6 Tumor-024_Position(40).tif_Files.tif	CTN047_Day6_04.tif
+CTN047 d6 Tumor-024_Position(41).tif_Files.tif	CTN047_Day6_05.tif
+CTN047 d6 Tumor-024_Position(42).tif_Files.tif	CTN047_Day6_06.tif
+CTN047 d6 Tumor-024_Position(43).tif_Files.tif	CTN047_Day6_07.tif
+CTN047 d6 Tumor-024_Position(44).tif_Files.tif	CTN047_Day6_08.tif
+CTN047 d6 Tumor-024_Position(45).tif_Files.tif	CTN047_Day6_09.tif
+CTN047 d6 Tumor-024_Position(46).tif_Files.tif	CTN047_Day6_10.tif
+CTN048 d6 Tumor-036_AB03_01.tif_Files.tif	CTN048_Day6_01.tif
+CTN048 d6 Tumor-036_AB03_02.tif_Files.tif	CTN048_Day6_02.tif
+CTN048 d6 Tumor-036_AB03_03.tif_Files.tif	CTN048_Day6_03.tif
+CTN048 d6 Tumor-036_AB03_04.tif_Files.tif	CTN048_Day6_04.tif
+CTN048 d6 Tumor-036_AB03_05.tif_Files.tif	CTN048_Day6_05.tif
+CTN048 d6 Tumor-036_AB03_06.tif_Files.tif	CTN048_Day6_06.tif
+CTN048 d6 Tumor-036_AB03_07.tif_Files.tif	CTN048_Day6_07.tif
+CTN048 d6 Tumor-036_AB03_08.tif_Files.tif	CTN048_Day6_08.tif
+CTN048 d6 Tumor-036_AB03_09.tif_Files.tif	CTN048_Day6_09.tif
+CTN048 d6 Tumor-036_AB03_10.tif_Files.tif	CTN048_Day6_10.tif
+CTN048 d6 Tumor-036_AB03_11.tif_Files.tif	CTN048_Day6_11.tif
+CTN048 d6 Tumor-036_AB03_12.tif_Files.tif	CTN048_Day6_12.tif
+CTN049 d6 Tumor-035_AC04_01.tif_Files.tif	CTN049_Day6_01.tif
+CTN049 d6 Tumor-035_AC04_02.tif_Files.tif	CTN049_Day6_02.tif
+CTN049 d6 Tumor-035_AC04_03.tif_Files.tif	CTN049_Day6_03.tif
+CTN049 d6 Tumor-035_AC04_04.tif_Files.tif	CTN049_Day6_04.tif
+CTN049 d6 Tumor-035_AC04_05.tif_Files.tif	CTN049_Day6_05.tif
+CTN049 d6 Tumor-035_AC04_06.tif_Files.tif	CTN049_Day6_06.tif
+CTN049 d6 Tumor-035_AC04_07.tif_Files.tif	CTN049_Day6_07.tif
+CTN049 d6 Tumor-035_AC04_08.tif_Files.tif	CTN049_Day6_08.tif
+CTN049 d6 Tumor-035_AC04_09.tif_Files.tif	CTN049_Day6_09.tif
+CTN049 d6 Tumor-035_AC04_10.tif_Files.tif	CTN049_Day6_10.tif
+CTN049 d6 Tumor-035_AC04_11.tif_Files.tif	CTN049_Day6_11.tif
+CTN049 d6 Tumor-035_AC04_12.tif_Files.tif	CTN049_Day6_12.tif
+CTN049 d6 Tumor-035_AC04_13.tif_Files.tif	CTN049_Day6_13.tif
+CTN049 d6 Tumor-035_AC04_14.tif_Files.tif	CTN049_Day6_14.tif
+CTN049 d6 Tumor-035_AC04_15.tif_Files.tif	CTN049_Day6_15.tif
+CTN049 d6 Tumor-035_AC04_16.tif_Files.tif	CTN049_Day6_16.tif
+CTN049 d6 Tumor-035_AC04_17.tif_Files.tif	CTN049_Day6_17.tif
+CTN049 d6 Tumor-035_AC04_18.tif_Files.tif	CTN049_Day6_18.tif
+CTN049 d6 Tumor-035_AC04_19.tif_Files.tif	CTN049_Day6_19.tif
+CTN049 d6 Tumor-035_AC04_20.tif_Files.tif	CTN049_Day6_20.tif
+CTN049 d6 Tumor-035_AC04_21.tif_Files.tif	CTN049_Day6_21.tif
+CTN049 d6 Tumor-035_AC04_22.tif_Files.tif	CTN049_Day6_22.tif
+CTN049 d6 Tumor-035_AC04_23.tif_Files.tif	CTN049_Day6_23.tif
+CTN049 d6 Tumor-035_AC04_24.tif_Files.tif	CTN049_Day6_24.tif
+CTN049 d6 Tumor-035_AC04_25.tif_Files.tif	CTN049_Day6_25.tif
+CTN049 d6 Tumor-035_AC04_26.tif_Files.tif	CTN049_Day6_26.tif
+CTN049 d6 Tumor-035_AC04_27.tif_Files.tif	CTN049_Day6_27.tif
+CTN049 d6 Tumor-035_AC04_28.tif_Files.tif	CTN049_Day6_28.tif
+CTN050 d6 Tumor-039_AC03_01.tif_Files.tif	CTN050_Day6_01.tif
+CTN050 d6 Tumor-039_AC03_02.tif_Files.tif	CTN050_Day6_02.tif
+CTN050 d6 Tumor-039_AC03_03.tif_Files.tif	CTN050_Day6_03.tif
+CTN050 d6 Tumor-039_AC03_04.tif_Files.tif	CTN050_Day6_04.tif
+CTN050 d6 Tumor-039_AC03_05.tif_Files.tif	CTN050_Day6_05.tif
+CTN050 d6 Tumor-039_AC03_06.tif_Files.tif	CTN050_Day6_06.tif
+CTN050 d6 Tumor-039_AC03_07.tif_Files.tif	CTN050_Day6_07.tif
+CTN050 d6 Tumor-039_AC03_08.tif_Files.tif	CTN050_Day6_08.tif
+CTN050 d6 Tumor-039_AC03_09.tif_Files.tif	CTN050_Day6_09.tif
+CTN050 d6 Tumor-039_AC03_10.tif_Files.tif	CTN050_Day6_10.tif
+CTN052 Tumorl d6-0011_AB01_01.tif_Files.tif	CTN052_Day6_01.tif
+CTN052 Tumorl d6-0011_AB01_02.tif_Files.tif	CTN052_Day6_02.tif
+CTN052 Tumorl d6-0011_AB01_03.tif_Files.tif	CTN052_Day6_03.tif
+CTN052 Tumorl d6-0011_AB01_04.tif_Files.tif	CTN052_Day6_04.tif
+CTN052 Tumorl d6-0011_AB01_05.tif_Files.tif	CTN052_Day6_05.tif
+CTN052 Tumorl d6-0011_AB01_06.tif_Files.tif	CTN052_Day6_06.tif
+CTN052 Tumorl d6-0011_AB01_07.tif_Files.tif	CTN052_Day6_07.tif
+CTN052 Tumorl d6-0011_AB01_08.tif_Files.tif	CTN052_Day6_08.tif
+CTN052 Tumorl d6-0011_AB01_09.tif_Files.tif	CTN052_Day6_09.tif
+CTN052 Tumorl d6-0011_AB01_10.tif_Files.tif	CTN052_Day6_10.tif
+CTN052 Tumorl d6-0011_AB01_11.tif_Files.tif	CTN052_Day6_11.tif
+CTN052 Tumorl d6-0011_AB01_12.tif_Files.tif	CTN052_Day6_12.tif
+CTN052 Tumorl d6-0011_AB01_13.tif_Files.tif	CTN052_Day6_13.tif
+CTN052 Tumorl d6-0011_AB01_14.tif_Files.tif	CTN052_Day6_14.tif
+CTN052 Tumorl d6-0011_AB01_15.tif_Files.tif	CTN052_Day6_15.tif
+CTN052 Tumorl d6-0011_AB01_16.tif_Files.tif	CTN052_Day6_16.tif
+CTN052 Tumorl d6-0011_AB01_17.tif_Files.tif	CTN052_Day6_17.tif
+CTN052 Tumorl d6-0011_AB01_18.tif_Files.tif	CTN052_Day6_18.tif
+CTN052 Tumorl d6-0011_AB01_19.tif_Files.tif	CTN052_Day6_19.tif
+CTN053 Tumorl d6-0013_AA01_01.tif_Files.tif	CTN053_Day6_01.tif
+CTN053 Tumorl d6-0013_AA01_02.tif_Files.tif	CTN053_Day6_02.tif
+CTN053 Tumorl d6-0013_AA01_03.tif_Files.tif	CTN053_Day6_03.tif
+CTN053 Tumorl d6-0013_AA01_04.tif_Files.tif	CTN053_Day6_04.tif
+CTN053 Tumorl d6-0013_AA01_05.tif_Files.tif	CTN053_Day6_05.tif
+CTN053 Tumorl d6-0013_AA01_06.tif_Files.tif	CTN053_Day6_06.tif
+CTN053 Tumorl d6-0013_AA01_07.tif_Files.tif	CTN053_Day6_07.tif
+CTN053 Tumorl d6-0013_AA01_08.tif_Files.tif	CTN053_Day6_08.tif
+CTN053 Tumorl d6-0013_AA01_09.tif_Files.tif	CTN053_Day6_09.tif
+CTN053 Tumorl d6-0013_AA01_10.tif_Files.tif	CTN053_Day6_10.tif
+CTN053 Tumorl d6-0013_AA01_11.tif_Files.tif	CTN053_Day6_11.tif
+CTN053 Tumorl d6-0013_AA01_12.tif_Files.tif	CTN053_Day6_12.tif
+CTN053 Tumorl d6-0013_AA01_13.tif_Files.tif	CTN053_Day6_13.tif
+CTN053 Tumorl d6-0013_AA01_14.tif_Files.tif	CTN053_Day6_14.tif
+CTN053 Tumorl d6-0013_AA01_15.tif_Files.tif	CTN053_Day6_15.tif
+CTN053 Tumorl d6-0013_AA01_16.tif_Files.tif	CTN053_Day6_16.tif
+CTN053 Tumorl d6-0013_AA01_17.tif_Files.tif	CTN053_Day6_17.tif
+CTN053 Tumorl d6-0013_AA01_18.tif_Files.tif	CTN053_Day6_18.tif
+CTN053 Tumorl d6-0013_AA01_19.tif_Files.tif	CTN053_Day6_19.tif
+CTN053 Tumorl d6-0013_AA01_20.tif_Files.tif	CTN053_Day6_20.tif
+CTN053 Tumorl d6-0013_AA01_21.tif_Files.tif	CTN053_Day6_21.tif
+CTN053 Tumorl d6-0013_AA01_22.tif_Files.tif	CTN053_Day6_22.tif
+CTN053 Tumorl d6-0013_AA01_23.tif_Files.tif	CTN053_Day6_23.tif
+CTN054 Tumorl d6-0014_AA06_01.tif_Files.tif	CTN054_Day6_01.tif
+CTN054 Tumorl d6-0014_AA06_02.tif_Files.tif	CTN054_Day6_02.tif
+CTN054 Tumorl d6-0014_AA06_03.tif_Files.tif	CTN054_Day6_03.tif
+CTN054 Tumorl d6-0014_AA06_04.tif_Files.tif	CTN054_Day6_04.tif
+CTN054 Tumorl d6-0014_AA06_05.tif_Files.tif	CTN054_Day6_05.tif
+CTN054 Tumorl d6-0014_AA06_06.tif_Files.tif	CTN054_Day6_06.tif
+CTN054 Tumorl d6-0014_AA06_07.tif_Files.tif	CTN054_Day6_07.tif
+CTN054 Tumorl d6-0014_AA06_08.tif_Files.tif	CTN054_Day6_08.tif
+CTN054 Tumorl d6-0014_AA06_09.tif_Files.tif	CTN054_Day6_09.tif
+CTN055 Tumorl d6-0015_AC04_01.tif_Files.tif	CTN055_Day6_01.tif
+CTN055 Tumorl d6-0015_AC04_02.tif_Files.tif	CTN055_Day6_02.tif
+CTN055 Tumorl d6-0015_AC04_03.tif_Files.tif	CTN055_Day6_03.tif
+CTN055 Tumorl d6-0015_AC04_04.tif_Files.tif	CTN055_Day6_04.tif
+CTN055 Tumorl d6-0015_AC04_05.tif_Files.tif	CTN055_Day6_05.tif
+CTN055 Tumorl d6-0015_AC04_06.tif_Files.tif	CTN055_Day6_06.tif
+CTN055 Tumorl d6-0015_AC04_07.tif_Files.tif	CTN055_Day6_07.tif
+CTN055 Tumorl d6-0015_AC04_08.tif_Files.tif	CTN055_Day6_08.tif
+CTN057 Tumor d6-0021_Position(75).tif_Files.tif	CTN057_Day6_01.tif
+CTN057 Tumor d6-0021_Position(76).tif_Files.tif	CTN057_Day6_02.tif
+CTN057 Tumor d6-0021_Position(77).tif_Files.tif	CTN057_Day6_03.tif
+CTN057 Tumor d6-0021_Position(78).tif_Files.tif	CTN057_Day6_04.tif
+CTN058 Tumorl d6-0016_AA02_01.tif_Files.tif	CTN058_Day6_01.tif
+CTN058 Tumorl d6-0016_AA02_02.tif_Files.tif	CTN058_Day6_02.tif
+CTN058 Tumorl d6-0016_AA02_03.tif_Files.tif	CTN058_Day6_03.tif
+CTN058 Tumorl d6-0016_AA02_04.tif_Files.tif	CTN058_Day6_04.tif
+CTN058 Tumorl d6-0016_AA02_05.tif_Files.tif	CTN058_Day6_05.tif
+CTN058 Tumorl d6-0016_AA02_06.tif_Files.tif	CTN058_Day6_06.tif
+CTN058 Tumorl d6-0016_AA02_07.tif_Files.tif	CTN058_Day6_07.tif
+CTN058 Tumorl d6-0016_AA02_08.tif_Files.tif	CTN058_Day6_08.tif
+CTN058 Tumorl d6-0016_AA02_09.tif_Files.tif	CTN058_Day6_09.tif
+CTN058 Tumorl d6-0016_AA02_10.tif_Files.tif	CTN058_Day6_10.tif
+CTN058 Tumorl d6-0016_AA02_11.tif_Files.tif	CTN058_Day6_11.tif
+CTN058 Tumorl d6-0016_AA02_12.tif_Files.tif	CTN058_Day6_12.tif
+CTN058 Tumorl d6-0016_AA02_13.tif_Files.tif	CTN058_Day6_13.tif
+CTN058 Tumorl d6-0016_AA02_14.tif_Files.tif	CTN058_Day6_14.tif
+CTN058 Tumorl d6-0016_AA02_15.tif_Files.tif	CTN058_Day6_15.tif
+CTN058 Tumorl d6-0016_AA02_16.tif_Files.tif	CTN058_Day6_16.tif
+CTN058 Tumorl d6-0016_AA02_17.tif_Files.tif	CTN058_Day6_17.tif
+CTN060 Tumorl d6-0017_AB01_01.tif_Files.tif	CTN060_Day6_01.tif
+CTN060 Tumorl d6-0017_AB01_02.tif_Files.tif	CTN060_Day6_02.tif
+CTN060 Tumorl d6-0017_AB01_03.tif_Files.tif	CTN060_Day6_03.tif
+CTN060 Tumorl d6-0017_AB01_04.tif_Files.tif	CTN060_Day6_04.tif
+CTN060 Tumorl d6-0017_AB01_05.tif_Files.tif	CTN060_Day6_05.tif
+CTN060 Tumorl d6-0017_AB01_06.tif_Files.tif	CTN060_Day6_06.tif
+CTN060 Tumorl d6-0017_AB01_07.tif_Files.tif	CTN060_Day6_07.tif
+CTN060 Tumorl d6-0017_AB01_08.tif_Files.tif	CTN060_Day6_08.tif
+CTN060 Tumorl d6-0017_AB01_09.tif_Files.tif	CTN060_Day6_09.tif
+CTN060 Tumorl d6-0017_AB01_10.tif_Files.tif	CTN060_Day6_10.tif
+CTN060 Tumorl d6-0017_AB01_11.tif_Files.tif	CTN060_Day6_11.tif
+CTN060 Tumorl d6-0017_AB01_12.tif_Files.tif	CTN060_Day6_12.tif
+CTN060 Tumorl d6-0017_AB01_13.tif_Files.tif	CTN060_Day6_13.tif
+CTN060 Tumorl d6-0017_AB01_14.tif_Files.tif	CTN060_Day6_14.tif
+CTN060 Tumorl d6-0017_AB01_15.tif_Files.tif	CTN060_Day6_15.tif
+CTN060 Tumorl d6-0017_AB01_16.tif_Files.tif	CTN060_Day6_16.tif
+CTN060 Tumorl d6-0017_AB01_17.tif_Files.tif	CTN060_Day6_17.tif
+CTN060 Tumorl d6-0017_AB01_18.tif_Files.tif	CTN060_Day6_18.tif
+CTN069 Tumor d6-0004_AD01_01.tif_Files.tif	CTN069_Day6_01.tif
+CTN069 Tumor d6-0004_AD01_02.tif_Files.tif	CTN069_Day6_02.tif
+CTN069 Tumor d6-0004_AD01_03.tif_Files.tif	CTN069_Day6_03.tif
+CTN069 Tumor d6-0004_AD01_04.tif_Files.tif	CTN069_Day6_04.tif
+CTN069 Tumor d6-0004_AD01_05.tif_Files.tif	CTN069_Day6_05.tif
+CTN069 Tumor d6-0004_AD01_06.tif_Files.tif	CTN069_Day6_06.tif
+CTN070 Tumor d6-0005_AD05_01.tif_Files.tif	CTN070_Day6_01.tif
+CTN070 Tumor d6-0005_AD05_02.tif_Files.tif	CTN070_Day6_02.tif
+CTN070 Tumor d6-0005_AD05_03.tif_Files.tif	CTN070_Day6_03.tif
+CTN070 Tumor d6-0005_AD05_04.tif_Files.tif	CTN070_Day6_04.tif
+CTN070 Tumor d6-0005_AD05_05.tif_Files.tif	CTN070_Day6_05.tif
+CTN070 Tumor d6-0005_AD05_06.tif_Files.tif	CTN070_Day6_06.tif
+CTN070 Tumor d6-0005_AD05_07.tif_Files.tif	CTN070_Day6_07.tif
+CTN071 Tumor d6-0014_Position(94).tif_Files.tif	CTN071_Day6_01.tif
+CTN071 Tumor d6-0014_Position(95).tif_Files.tif	CTN071_Day6_02.tif
+CTN071 Tumor d6-0014_Position(96).tif_Files.tif	CTN071_Day6_03.tif
+CTN071 Tumor d6-0014_Position(97).tif_Files.tif	CTN071_Day6_04.tif
+CTN071 Tumor d6-0014_Position(98).tif_Files.tif	CTN071_Day6_05.tif
+CTN071 Tumor d6-0014_Position(99).tif_Files.tif	CTN071_Day6_06.tif
+CTN071 Tumor d6-0014_Position(100).tif_Files.tif	CTN071_Day6_07.tif
+CTN071 Tumor d6-0014_Position(101).tif_Files.tif	CTN071_Day6_08.tif
+CTN073 Tumor d6-0001_AB02_01.tif_Files.tif	CTN073_Day6_01.tif
+CTN073 Tumor d6-0001_AB02_02.tif_Files.tif	CTN073_Day6_02.tif
+CTN073 Tumor d6-0001_AB02_03.tif_Files.tif	CTN073_Day6_03.tif
+CTN075 Tumor d6-0001_AB01_01.tif_Files.tif	CTN075_Day6_01.tif
+CTN075 Tumor d6-0001_AB01_02.tif_Files.tif	CTN075_Day6_02.tif
+CTN075 Tumor d6-0001_AB01_03.tif_Files.tif	CTN075_Day6_03.tif
+CTN075 Tumor d6-0001_AB01_04.tif_Files.tif	CTN075_Day6_04.tif
+CTN075 Tumor d6-0001_AB01_05.tif_Files.tif	CTN075_Day6_05.tif
+CTN075 Tumor d6-0001_AB01_06.tif_Files.tif	CTN075_Day6_06.tif
+CTN075 Tumor d6-0001_AB01_07.tif_Files.tif	CTN075_Day6_07.tif
+CTN075 Tumor d6-0001_AB01_08.tif_Files.tif	CTN075_Day6_08.tif
+CTN075 Tumor d6-0001_AB01_09.tif_Files.tif	CTN075_Day6_09.tif
+CTN075 Tumor d6-0001_AB01_10.tif_Files.tif	CTN075_Day6_10.tif
+CTN075 Tumor d6-0001_AB01_11.tif_Files.tif	CTN075_Day6_11.tif
+CTN075 Tumor d6-0001_AB01_12.tif_Files.tif	CTN075_Day6_12.tif
+CTN075 Tumor d6-0001_AB01_13.tif_Files.tif	CTN075_Day6_13.tif
+CTN075 Tumor d6-0001_AB01_14.tif_Files.tif	CTN075_Day6_14.tif
+CTN075 Tumor d6-0001_AB01_15.tif_Files.tif	CTN075_Day6_15.tif
+CTN075 Tumor d6-0001_AB01_16.tif_Files.tif	CTN075_Day6_16.tif
+CTN075 Tumor d6-0001_AB01_17.tif_Files.tif	CTN075_Day6_17.tif
+CTN075 Tumor d6-0001_AB01_18.tif_Files.tif	CTN075_Day6_18.tif
+CTN075 Tumor d6-0001_AB01_19.tif_Files.tif	CTN075_Day6_19.tif
+CTN075 Tumor d6-0001_AB01_20.tif_Files.tif	CTN075_Day6_20.tif
+CTN075 Tumor d6-0001_AB01_21.tif_Files.tif	CTN075_Day6_21.tif
+CTN075 Tumor d6-0001_AB01_22.tif_Files.tif	CTN075_Day6_22.tif
+CTN075 Tumor d6-0001_AB01_23.tif_Files.tif	CTN075_Day6_23.tif
+CTN075 Tumor d6-0001_AB01_24.tif_Files.tif	CTN075_Day6_24.tif
+CTN075 Tumor d6-0001_AB01_25.tif_Files.tif	CTN075_Day6_25.tif
+CTN075 Tumor d6-0001_AB01_26.tif_Files.tif	CTN075_Day6_26.tif
+CTN075 Tumor d6-0001_AB01_27.tif_Files.tif	CTN075_Day6_27.tif
+CTN075 Tumor d6-0001_AB01_28.tif_Files.tif	CTN075_Day6_28.tif
+CTN075 Tumor d6-0001_AB01_29.tif_Files.tif	CTN075_Day6_29.tif
+CTN075 Tumor d6-0001_AB01_30.tif_Files.tif	CTN075_Day6_30.tif
+CTN075 Tumor d6-0001_AB01_31.tif_Files.tif	CTN075_Day6_31.tif
+CTN075 Tumor d6-0001_AB01_32.tif_Files.tif	CTN075_Day6_32.tif
+CTN075 Tumor d6-0001_AB01_33.tif_Files.tif	CTN075_Day6_33.tif
+CTN075 Tumor d6-0001_AB01_34.tif_Files.tif	CTN075_Day6_34.tif
+CTN075 Tumor d6-0001_AB01_35.tif_Files.tif	CTN075_Day6_35.tif
+CTN075 Tumor d6-0001_AB01_36.tif_Files.tif	CTN075_Day6_36.tif
+CTN075 Tumor d6-0001_AB01_37.tif_Files.tif	CTN075_Day6_37.tif
+CTN075 Tumor d6-0001_AB01_38.tif_Files.tif	CTN075_Day6_38.tif
+CTN075 Tumor d6-0001_AB01_39.tif_Files.tif	CTN075_Day6_39.tif
+CTN075 Tumor d6-0001_AB01_40.tif_Files.tif	CTN075_Day6_40.tif
+CTN075 Tumor d6-0001_AB01_41.tif_Files.tif	CTN075_Day6_41.tif
+CTN075 Tumor d6-0001_AB01_42.tif_Files.tif	CTN075_Day6_42.tif
+CTN075 Tumor d6-0001_AB01_43.tif_Files.tif	CTN075_Day6_43.tif
+CTN075 Tumor d6-0001_AB01_44.tif_Files.tif	CTN075_Day6_44.tif
+CTN075 Tumor d6-0001_AB01_45.tif_Files.tif	CTN075_Day6_45.tif
+CTN075 Tumor d6-0001_AB01_46.tif_Files.tif	CTN075_Day6_46.tif
+TN082 Tumor d6-0001_AB01_01.tif_Files.tif	CTN082_Day6_01.tif
+TN082 Tumor d6-0001_AB01_03.tif_Files.tif	CTN082_Day6_03.tif
+TN082 Tumor d6-0001_AB01_07.tif_Files.tif	CTN082_Day6_07.tif
+TN082 Tumor d6-0001_AB01_06.tif_Files.tif	CTN082_Day6_06.tif
+TN082 Tumor d6-0001_AB01_05.tif_Files.tif	CTN082_Day6_05.tif
+TN082 Tumor d6-0001_AB01_08.tif_Files.tif	CTN082_Day6_08.tif
+TN082 Tumor d6-0001_AB01_04.tif_Files.tif	CTN082_Day6_04.tif
+TN082 Tumor d6-0001_AB01_02.tif_Files.tif	CTN082_Day6_02.tif
+TN083 Tumor d6-0005_AA01_17.tif_Files.tif	CTN083_Day6_17.tif
+TN083 Tumor d6-0005_AA01_06.tif_Files.tif	CTN083_Day6_06.tif
+TN083 Tumor d6-0005_AA01_14.tif_Files.tif	CTN083_Day6_14.tif
+TN083 Tumor d6-0005_AA01_07.tif_Files.tif	CTN083_Day6_07.tif
+TN083 Tumor d6-0005_AA01_16.tif_Files.tif	CTN083_Day6_16.tif
+TN083 Tumor d6-0005_AA01_15.tif_Files.tif	CTN083_Day6_15.tif
+TN083 Tumor d6-0005_AA01_12.tif_Files.tif	CTN083_Day6_12.tif
+TN083 Tumor d6-0005_AA01_04.tif_Files.tif	CTN083_Day6_04.tif
+TN083 Tumor d6-0005_AA01_05.tif_Files.tif	CTN083_Day6_05.tif
+TN083 Tumor d6-0005_AA01_08.tif_Files.tif	CTN083_Day6_08.tif
+TN083 Tumor d6-0005_AA01_13.tif_Files.tif	CTN083_Day6_13.tif
+TN083 Tumor d6-0005_AA01_18.tif_Files.tif	CTN083_Day6_18.tif
+TN083 Tumor d6-0005_AA01_03.tif_Files.tif	CTN083_Day6_03.tif
+TN083 Tumor d6-0005_AA01_09.tif_Files.tif	CTN083_Day6_09.tif
+TN083 Tumor d6-0005_AA01_01.tif_Files.tif	CTN083_Day6_01.tif
+TN083 Tumor d6-0005_AA01_10.tif_Files.tif	CTN083_Day6_10.tif
+TN083 Tumor d6-0005_AA01_02.tif_Files.tif	CTN083_Day6_02.tif
+TN083 Tumor d6-0005_AA01_11.tif_Files.tif	CTN083_Day6_11.tif
+TN084 Tumor d6-0006_AB01_08.tif_Files.tif	CTN084_Day6_08.tif
+TN084 Tumor d6-0006_AB01_03.tif_Files.tif	CTN084_Day6_03.tif
+TN084 Tumor d6-0006_AB01_07.tif_Files.tif	CTN084_Day6_07.tif
+TN084 Tumor d6-0006_AB01_04.tif_Files.tif	CTN084_Day6_04.tif
+TN084 Tumor d6-0006_AB01_05.tif_Files.tif	CTN084_Day6_05.tif
+TN084 Tumor d6-0006_AB01_01.tif_Files.tif	CTN084_Day6_01.tif
+TN084 Tumor d6-0006_AB01_02.tif_Files.tif	CTN084_Day6_02.tif
+TN084 Tumor d6-0006_AB01_06.tif_Files.tif	CTN084_Day6_06.tif
+TN084 Tumor d6-0006_AB01_09.tif_Files.tif	CTN084_Day6_09.tif
+TN085 Tumor d6 -0010_AC05_03.tif_Files.tif	CTN085_Day6_03.tif
+TN085 Tumor d6 -0010_AC05_16.tif_Files.tif	CTN085_Day6_16.tif
+TN085 Tumor d6 -0010_AC05_05.tif_Files.tif	CTN085_Day6_05.tif
+TN085 Tumor d6 -0010_AC05_11.tif_Files.tif	CTN085_Day6_11.tif
+TN085 Tumor d6 -0010_AC05_07.tif_Files.tif	CTN085_Day6_07.tif
+TN085 Tumor d6 -0010_AC05_01.tif_Files.tif	CTN085_Day6_01.tif
+TN085 Tumor d6 -0010_AC05_17.tif_Files.tif	CTN085_Day6_17.tif
+TN085 Tumor d6 -0010_AC05_15.tif_Files.tif	CTN085_Day6_15.tif
+TN085 Tumor d6 -0010_AC05_12.tif_Files.tif	CTN085_Day6_12.tif
+TN085 Tumor d6 -0010_AC05_18.tif_Files.tif	CTN085_Day6_18.tif
+TN085 Tumor d6 -0010_AC05_06.tif_Files.tif	CTN085_Day6_06.tif
+TN085 Tumor d6 -0010_AC05_13.tif_Files.tif	CTN085_Day6_13.tif
+TN085 Tumor d6 -0010_AC05_04.tif_Files.tif	CTN085_Day6_04.tif
+TN085 Tumor d6 -0010_AC05_08.tif_Files.tif	CTN085_Day6_08.tif
+TN085 Tumor d6 -0010_AC05_02.tif_Files.tif	CTN085_Day6_02.tif
+TN085 Tumor d6 -0010_AC05_14.tif_Files.tif	CTN085_Day6_14.tif
+TN085 Tumor d6 -0010_AC05_10.tif_Files.tif	CTN085_Day6_10.tif
+TN085 Tumor d6 -0010_AC05_09.tif_Files.tif	CTN085_Day6_09.tif
+TN086 Tumor d6-0048_Position(367).tif_Files.tif	CTN086_Day6_05.tif
+TN086 Tumor d6-0048_Position(368).tif_Files.tif	CTN086_Day6_06.tif
+TN086 Tumor d6-0048_Position(371).tif_Files.tif	CTN086_Day6_09.tif
+TN086 Tumor d6-0048_Position(366).tif_Files.tif	CTN086_Day6_04.tif
+TN086 Tumor d6-0048_Position(370).tif_Files.tif	CTN086_Day6_08.tif
+TN086 Tumor d6-0048_Position(372).tif_Files.tif	CTN086_Day6_10.tif
+TN086 Tumor d6-0048_Position(364).tif_Files.tif	CTN086_Day6_02.tif
+TN086 Tumor d6-0048_Position(365).tif_Files.tif	CTN086_Day6_03.tif
+TN086 Tumor d6-0048_Position(369).tif_Files.tif	CTN086_Day6_07.tif
+TN086 Tumor d6-0048_Position(363).tif_Files.tif	CTN086_Day6_01.tif
+TN087 Tumor d6 -0011_AB04_08.tif_Files.tif	CTN087_Day6_08.tif
+TN087 Tumor d6 -0011_AB04_02.tif_Files.tif	CTN087_Day6_02.tif
+TN087 Tumor d6 -0011_AB04_13.tif_Files.tif	CTN087_Day6_13.tif
+TN087 Tumor d6 -0011_AB04_01.tif_Files.tif	CTN087_Day6_01.tif
+TN087 Tumor d6 -0011_AB04_12.tif_Files.tif	CTN087_Day6_12.tif
+TN087 Tumor d6 -0011_AB04_17.tif_Files.tif	CTN087_Day6_16.tif
+TN087 Tumor d6 -0011_AB04_14.tif_Files.tif	CTN087_Day6_14.tif
+TN087 Tumor d6 -0011_AB04_15.tif_Files.tif	CTN087_Day6_15.tif
+TN087 Tumor d6 -0011_AB04_06.tif_Files.tif	CTN087_Day6_06.tif
+TN087 Tumor d6 -0011_AB04_21.tif_Files.tif	CTN087_Day6_20.tif
+TN087 Tumor d6 -0011_AB04_22.tif_Files.tif	CTN087_Day6_21.tif
+TN087 Tumor d6 -0011_AB04_07.tif_Files.tif	CTN087_Day6_07.tif
+TN087 Tumor d6 -0011_AB04_18.tif_Files.tif	CTN087_Day6_17.tif
+TN087 Tumor d6 -0011_AB04_10.tif_Files.tif	CTN087_Day6_10.tif
+TN087 Tumor d6 -0011_AB04_03.tif_Files.tif	CTN087_Day6_03.tif
+TN087 Tumor d6 -0011_AB04_19.tif_Files.tif	CTN087_Day6_18.tif
+TN087 Tumor d6 -0011_AB04_20.tif_Files.tif	CTN087_Day6_19.tif
+TN087 Tumor d6 -0011_AB04_05.tif_Files.tif	CTN087_Day6_05.tif
+TN087 Tumor d6 -0011_AB04_09.tif_Files.tif	CTN087_Day6_09.tif
+TN087 Tumor d6 -0011_AB04_04.tif_Files.tif	CTN087_Day6_04.tif
+TN087 Tumor d6 -0011_AB04_11.tif_Files.tif	CTN087_Day6_11.tif
+TN087 Tumor d6 -0011_AB04_23.tif_Files.tif	CTN087_Day6_22.tif
+TN088 Tumor d6 -0015_AA02_09.tif_Files.tif	CTN088_Day6_09.tif
+TN088 Tumor d6 -0015_AA02_13.tif_Files.tif	CTN088_Day6_13.tif
+TN088 Tumor d6 -0015_AA02_01.tif_Files.tif	CTN088_Day6_01.tif
+TN088 Tumor d6 -0015_AA02_07.tif_Files.tif	CTN088_Day6_07.tif
+TN088 Tumor d6 -0015_AA02_11.tif_Files.tif	CTN088_Day6_11.tif
+TN088 Tumor d6 -0015_AA02_08.tif_Files.tif	CTN088_Day6_08.tif
+TN088 Tumor d6 -0015_AA02_05.tif_Files.tif	CTN088_Day6_05.tif
+TN088 Tumor d6 -0015_AA02_04.tif_Files.tif	CTN088_Day6_04.tif
+TN088 Tumor d6 -0015_AA02_12.tif_Files.tif	CTN088_Day6_12.tif
+TN088 Tumor d6 -0015_AA02_02.tif_Files.tif	CTN088_Day6_02.tif
+TN088 Tumor d6 -0015_AA02_06.tif_Files.tif	CTN088_Day6_06.tif
+TN088 Tumor d6 -0015_AA02_03.tif_Files.tif	CTN088_Day6_03.tif
+TN088 Tumor d6 -0015_AA02_10.tif_Files.tif	CTN088_Day6_10.tif
+TN088 Tumor d6 -0015_AA02_14.tif_Files.tif	CTN088_Day6_14.tif
+TN089 Tumor d6 -0016_AC02_13.tif_Files.tif	CTN089_Day6_13.tif
+TN089 Tumor d6 -0016_AC02_10.tif_Files.tif	CTN089_Day6_10.tif
+TN089 Tumor d6 -0016_AC02_01.tif_Files.tif	CTN089_Day6_01.tif
+TN089 Tumor d6 -0016_AC02_21.tif_Files.tif	CTN089_Day6_21.tif
+TN089 Tumor d6 -0016_AC02_03.tif_Files.tif	CTN089_Day6_03.tif
+TN089 Tumor d6 -0016_AC02_05.tif_Files.tif	CTN089_Day6_05.tif
+TN089 Tumor d6 -0016_AC02_04.tif_Files.tif	CTN089_Day6_04.tif
+TN089 Tumor d6 -0016_AC02_08.tif_Files.tif	CTN089_Day6_08.tif
+TN089 Tumor d6 -0016_AC02_11.tif_Files.tif	CTN089_Day6_11.tif
+TN089 Tumor d6 -0016_AC02_16.tif_Files.tif	CTN089_Day6_16.tif
+TN089 Tumor d6 -0016_AC02_06.tif_Files.tif	CTN089_Day6_06.tif
+TN089 Tumor d6 -0016_AC02_15.tif_Files.tif	CTN089_Day6_15.tif
+TN089 Tumor d6 -0016_AC02_09.tif_Files.tif	CTN089_Day6_09.tif
+TN089 Tumor d6 -0016_AC02_14.tif_Files.tif	CTN089_Day6_14.tif
+TN089 Tumor d6 -0016_AC02_07.tif_Files.tif	CTN089_Day6_07.tif
+TN089 Tumor d6 -0016_AC02_20.tif_Files.tif	CTN089_Day6_20.tif
+TN089 Tumor d6 -0016_AC02_12.tif_Files.tif	CTN089_Day6_12.tif
+TN089 Tumor d6 -0016_AC02_02.tif_Files.tif	CTN089_Day6_02.tif
+TN089 Tumor d6 -0016_AC02_17.tif_Files.tif	CTN089_Day6_17.tif
+TN089 Tumor d6 -0016_AC02_18.tif_Files.tif	CTN089_Day6_18.tif
+TN089 Tumor d6 -0016_AC02_19.tif_Files.tif	CTN089_Day6_19.tif
+TN091 Tumor d6 -0026_AB01_17.tif_Files.tif	CTN091_Day6_17.tif
+TN091 Tumor d6 -0026_AB01_18.tif_Files.tif	CTN091_Day6_18.tif
+TN091 Tumor d6 -0026_AB01_07.tif_Files.tif	CTN091_Day6_07.tif
+TN091 Tumor d6 -0026_AB01_01.tif_Files.tif	CTN091_Day6_01.tif
+TN091 Tumor d6 -0026_AB01_19.tif_Files.tif	CTN091_Day6_19.tif
+TN091 Tumor d6 -0026_AB01_09.tif_Files.tif	CTN091_Day6_09.tif
+TN091 Tumor d6 -0026_AB01_02.tif_Files.tif	CTN091_Day6_02.tif
+TN091 Tumor d6 -0026_AB01_12.tif_Files.tif	CTN091_Day6_12.tif
+TN091 Tumor d6 -0026_AB01_14.tif_Files.tif	CTN091_Day6_14.tif
+TN091 Tumor d6 -0026_AB01_03.tif_Files.tif	CTN091_Day6_03.tif
+TN091 Tumor d6 -0026_AB01_20.tif_Files.tif	CTN091_Day6_20.tif
+TN091 Tumor d6 -0026_AB01_08.tif_Files.tif	CTN091_Day6_08.tif
+TN091 Tumor d6 -0026_AB01_05.tif_Files.tif	CTN091_Day6_05.tif
+TN091 Tumor d6 -0026_AB01_04.tif_Files.tif	CTN091_Day6_04.tif
+TN091 Tumor d6 -0026_AB01_06.tif_Files.tif	CTN091_Day6_06.tif
+TN091 Tumor d6 -0026_AB01_15.tif_Files.tif	CTN091_Day6_15.tif
+TN091 Tumor d6 -0026_AB01_11.tif_Files.tif	CTN091_Day6_11.tif
+TN091 Tumor d6 -0026_AB01_13.tif_Files.tif	CTN091_Day6_13.tif
+TN091 Tumor d6 -0026_AB01_10.tif_Files.tif	CTN091_Day6_10.tif
+TN091 Tumor d6 -0026_AB01_16.tif_Files.tif	CTN091_Day6_16.tif
+TN097 Tumor d6 -0020_AB02_04.tif_Files.tif	CTN097_Day6_04.tif
+TN097 Tumor d6 -0020_AB02_11.tif_Files.tif	CTN097_Day6_11.tif
+TN097 Tumor d6 -0020_AB02_14.tif_Files.tif	CTN097_Day6_14.tif
+TN097 Tumor d6 -0020_AB02_06.tif_Files.tif	CTN097_Day6_06.tif
+TN097 Tumor d6 -0020_AB02_12.tif_Files.tif	CTN097_Day6_12.tif
+TN097 Tumor d6 -0020_AB02_05.tif_Files.tif	CTN097_Day6_05.tif
+TN097 Tumor d6 -0020_AB02_09.tif_Files.tif	CTN097_Day6_09.tif
+TN097 Tumor d6 -0020_AB02_13.tif_Files.tif	CTN097_Day6_13.tif
+TN097 Tumor d6 -0020_AB02_10.tif_Files.tif	CTN097_Day6_10.tif
+TN097 Tumor d6 -0020_AB02_02.tif_Files.tif	CTN097_Day6_02.tif
+TN097 Tumor d6 -0020_AB02_08.tif_Files.tif	CTN097_Day6_08.tif
+TN097 Tumor d6 -0020_AB02_01.tif_Files.tif	CTN097_Day6_01.tif
+TN097 Tumor d6 -0020_AB02_07.tif_Files.tif	CTN097_Day6_07.tif
+TN097 Tumor d6 -0020_AB02_03.tif_Files.tif	CTN097_Day6_03.tif
+TN102 Tumorl d6 -0022_AA01_13.tif_Files.tif	CTN102_Day6_13.tif
+TN102 Tumorl d6 -0022_AA01_19.tif_Files.tif	CTN102_Day6_19.tif
+TN102 Tumorl d6 -0022_AA01_07.tif_Files.tif	CTN102_Day6_07.tif
+TN102 Tumorl d6 -0022_AA01_04.tif_Files.tif	CTN102_Day6_04.tif
+TN102 Tumorl d6 -0022_AA01_11.tif_Files.tif	CTN102_Day6_11.tif
+TN102 Tumorl d6 -0022_AA01_17.tif_Files.tif	CTN102_Day6_17.tif
+TN102 Tumorl d6 -0022_AA01_03.tif_Files.tif	CTN102_Day6_03.tif
+TN102 Tumorl d6 -0022_AA01_16.tif_Files.tif	CTN102_Day6_16.tif
+TN102 Tumorl d6 -0022_AA01_22.tif_Files.tif	CTN102_Day6_22.tif
+TN102 Tumorl d6 -0022_AA01_14.tif_Files.tif	CTN102_Day6_14.tif
+TN102 Tumorl d6 -0022_AA01_18.tif_Files.tif	CTN102_Day6_18.tif
+TN102 Tumorl d6 -0022_AA01_15.tif_Files.tif	CTN102_Day6_15.tif
+TN102 Tumorl d6 -0022_AA01_10.tif_Files.tif	CTN102_Day6_10.tif
+TN102 Tumorl d6 -0022_AA01_06.tif_Files.tif	CTN102_Day6_06.tif
+TN102 Tumorl d6 -0022_AA01_01.tif_Files.tif	CTN102_Day6_01.tif
+TN102 Tumorl d6 -0022_AA01_02.tif_Files.tif	CTN102_Day6_02.tif
+TN102 Tumorl d6 -0022_AA01_05.tif_Files.tif	CTN102_Day6_05.tif
+TN102 Tumorl d6 -0022_AA01_21.tif_Files.tif	CTN102_Day6_21.tif
+TN102 Tumorl d6 -0022_AA01_20.tif_Files.tif	CTN102_Day6_20.tif
+TN102 Tumorl d6 -0022_AA01_08.tif_Files.tif	CTN102_Day6_08.tif
+TN102 Tumorl d6 -0022_AA01_12.tif_Files.tif	CTN102_Day6_12.tif
+TN102 Tumorl d6 -0022_AA01_09.tif_Files.tif	CTN102_Day6_09.tif
+TN105 Tumor d6-0005_Position(281).tif_Files.tif	CTN105_Day6_14.tif
+TN105 Tumor d6-0005_Position(273).tif_Files.tif	CTN105_Day6_06.tif
+TN105 Tumor d6-0005_Position(276).tif_Files.tif	CTN105_Day6_09.tif
+TN105 Tumor d6-0005_Position(277).tif_Files.tif	CTN105_Day6_10.tif
+TN105 Tumor d6-0005_Position(280).tif_Files.tif	CTN105_Day6_13.tif
+TN105 Tumor d6-0005_Position(270).tif_Files.tif	CTN105_Day6_03.tif
+TN105 Tumor d6-0005_Position(269).tif_Files.tif	CTN105_Day6_02.tif
+TN105 Tumor d6-0005_Position(271).tif_Files.tif	CTN105_Day6_04.tif
+TN105 Tumor d6-0005_Position(268).tif_Files.tif	CTN105_Day6_01.tif
+TN105 Tumor d6-0005_Position(275).tif_Files.tif	CTN105_Day6_08.tif
+TN105 Tumor d6-0005_Position(278).tif_Files.tif	CTN105_Day6_11.tif
+TN105 Tumor d6-0005_Position(279).tif_Files.tif	CTN105_Day6_12.tif
+TN105 Tumor d6-0005_Position(274).tif_Files.tif	CTN105_Day6_07.tif
+TN105 Tumor d6-0005_Position(272).tif_Files.tif	CTN105_Day6_05.tif
+TN106 Tumorl d6 -0023_AB02_16.tif_Files.tif	CTN106_Day6_16.tif
+TN106 Tumorl d6 -0023_AB02_09.tif_Files.tif	CTN106_Day6_09.tif
+TN106 Tumorl d6 -0023_AB02_08.tif_Files.tif	CTN106_Day6_08.tif
+TN106 Tumorl d6 -0023_AB02_03.tif_Files.tif	CTN106_Day6_03.tif
+TN106 Tumorl d6 -0023_AB02_23.tif_Files.tif	CTN106_Day6_23.tif
+TN106 Tumorl d6 -0023_AB02_13.tif_Files.tif	CTN106_Day6_13.tif
+TN106 Tumorl d6 -0023_AB02_07.tif_Files.tif	CTN106_Day6_07.tif
+TN106 Tumorl d6 -0023_AB02_10.tif_Files.tif	CTN106_Day6_10.tif
+TN106 Tumorl d6 -0023_AB02_29.tif_Files.tif	CTN106_Day6_29.tif
+TN106 Tumorl d6 -0023_AB02_15.tif_Files.tif	CTN106_Day6_15.tif
+TN106 Tumorl d6 -0023_AB02_06.tif_Files.tif	CTN106_Day6_06.tif
+TN106 Tumorl d6 -0023_AB02_17.tif_Files.tif	CTN106_Day6_17.tif
+TN106 Tumorl d6 -0023_AB02_04.tif_Files.tif	CTN106_Day6_04.tif
+TN106 Tumorl d6 -0023_AB02_11.tif_Files.tif	CTN106_Day6_11.tif
+TN106 Tumorl d6 -0023_AB02_25.tif_Files.tif	CTN106_Day6_25.tif
+TN106 Tumorl d6 -0023_AB02_30.tif_Files.tif	CTN106_Day6_30.tif
+TN106 Tumorl d6 -0023_AB02_28.tif_Files.tif	CTN106_Day6_28.tif
+TN106 Tumorl d6 -0023_AB02_02.tif_Files.tif	CTN106_Day6_02.tif
+TN106 Tumorl d6 -0023_AB02_19.tif_Files.tif	CTN106_Day6_19.tif
+TN106 Tumorl d6 -0023_AB02_32.tif_Files.tif	CTN106_Day6_32.tif
+TN106 Tumorl d6 -0023_AB02_18.tif_Files.tif	CTN106_Day6_18.tif
+TN106 Tumorl d6 -0023_AB02_27.tif_Files.tif	CTN106_Day6_27.tif
+TN106 Tumorl d6 -0023_AB02_01.tif_Files.tif	CTN106_Day6_01.tif
+TN106 Tumorl d6 -0023_AB02_05.tif_Files.tif	CTN106_Day6_05.tif
+TN106 Tumorl d6 -0023_AB02_14.tif_Files.tif	CTN106_Day6_14.tif
+TN106 Tumorl d6 -0023_AB02_22.tif_Files.tif	CTN106_Day6_22.tif
+TN106 Tumorl d6 -0023_AB02_12.tif_Files.tif	CTN106_Day6_12.tif
+TN106 Tumorl d6 -0023_AB02_26.tif_Files.tif	CTN106_Day6_26.tif
+TN106 Tumorl d6 -0023_AB02_21.tif_Files.tif	CTN106_Day6_21.tif
+TN106 Tumorl d6 -0023_AB02_31.tif_Files.tif	CTN106_Day6_31.tif
+TN106 Tumorl d6 -0023_AB02_20.tif_Files.tif	CTN106_Day6_20.tif
+TN106 Tumorl d6 -0023_AB02_24.tif_Files.tif	CTN106_Day6_24.tif
