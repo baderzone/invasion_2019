@@ -1948,7 +1948,7 @@ def write_exif_tags(orig_table, orig_dir, fullpath):
     fp.close()
     return None
 
-def get_dic_xy_k14(prev_table, orig_dir, xy_dir, nfft, outdir):
+def get_dic_xy_k14(prev_table, orig_dir, xy_dir, nfft, outdir, extrafigs=False):
     
     new_table = copy.deepcopy(prev_table)
     new_fields = ['invasion_spectral', 'invasion_ff',
@@ -2181,150 +2181,150 @@ def get_dic_xy_k14(prev_table, orig_dir, xy_dir, nfft, outdir):
         tups = sorted(tups, reverse=True)
         my_order = [ x[1] for x in tups ]
 
-        
-        ncol = 3
-        fig = plt.figure(figsize=(4*ncol, 3 * nrow))
-        my_alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-        my_letters = list(my_alphabet)
-        num_letters = len(my_letters)
-        mysize='medium'
-        for row in range(nrow):
-            k = my_order[row]
-            i = row * ncol
-
-            # try to parse the organoid name to get better fields
-            toks = k.split('_')
-            assert (len(toks) == 4), 'parsing error for organoid name %s' % k
-            (ctnstr, tumorstr, daystr, orgnum) = toks
-            tumornum = ctnstr[3:]
-            if (tumornum[0] == '0'):
-                tumornum = tumornum[1:]
-            if (orgnum[0] == '0'):
-                orgnum = orgnum[1:]
-
-            # DIC image
-            i += 1
-            my_panel = my_letters[ (i-1) % num_letters ]
-            plt.subplot(nrow, ncol, i)
-            plt.imshow(org2DIC[k])
-            plt.xticks(xtick_locs, xtick_labels)
-            plt.yticks(ytick_locs, ytick_labels)
-            plt.xlabel('Microns', fontsize=mysize)
-            plt.ylabel('Microns', fontsize=mysize)
-            plt.title('(%s) Tumor %s, organoid %s, DIC' % (my_panel, tumornum, orgnum), fontsize=mysize)
-
-            # K14 image
-            if False:
+        if extrafigs:
+            ncol = 3
+            fig = plt.figure(figsize=(4*ncol, 3 * nrow))
+            my_alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            my_letters = list(my_alphabet)
+            num_letters = len(my_letters)
+            mysize='medium'
+            for row in range(nrow):
+                k = my_order[row]
+                i = row * ncol
+    
+                # try to parse the organoid name to get better fields
+                toks = k.split('_')
+                assert (len(toks) == 4), 'parsing error for organoid name %s' % k
+                (ctnstr, tumorstr, daystr, orgnum) = toks
+                tumornum = ctnstr[3:]
+                if (tumornum[0] == '0'):
+                    tumornum = tumornum[1:]
+                if (orgnum[0] == '0'):
+                    orgnum = orgnum[1:]
+    
+                # DIC image
                 i += 1
                 my_panel = my_letters[ (i-1) % num_letters ]
                 plt.subplot(nrow, ncol, i)
+                plt.imshow(org2DIC[k])
+                plt.xticks(xtick_locs, xtick_labels)
+                plt.yticks(ytick_locs, ytick_labels)
+                plt.xlabel('Microns', fontsize=mysize)
+                plt.ylabel('Microns', fontsize=mysize)
+                plt.title('(%s) Tumor %s, organoid %s, DIC' % (my_panel, tumornum, orgnum), fontsize=mysize)
+    
+                # K14 image
+                if False:
+                    i += 1
+                    my_panel = my_letters[ (i-1) % num_letters ]
+                    plt.subplot(nrow, ncol, i)
+                    plt.imshow(org2K14[k])
+                    plt.xticks(xtick_locs, xtick_labels)
+                    plt.yticks(ytick_locs, ytick_labels)
+                    plt.xlabel('Microns', fontsize=mysize)
+                    plt.ylabel('Microns', fontsize=mysize)
+                    plt.title('(%s) Tumor %s, organoid %s, K14' % (my_panel, tumornum, orgnum), fontsize=mysize)
+                
+                # Boundary
+                i += 1
+                my_panel = my_letters[ (i-1) % num_letters ]
+                ax = plt.subplot(nrow, ncol, i)
+                plt.plot(org2xx[k], org2yy[k], 'k', label='Boundary from file')
+                plt.scatter(org2xxinterp[k], org2yyinterp[k], facecolors='none', edgecolors='b')
+                ax.set_aspect('equal')
+                ax.set_xlim(0, width-1) # the last point is included, so use width-1 and height-1
+                ax.set_ylim(0, height-1)
+                plt.xticks(xtick_locs, xtick_labels)
+                plt.yticks(ytick_locs, ytick_labels)
+                plt.title('(%s) Boundary' % my_panel, fontsize=mysize)
+                plt.xlabel('Microns', fontsize=mysize)
+                plt.ylabel('Microns', fontsize=mysize)
+                plt.gca().invert_yaxis()
+    
+                # Spectrum
+                i += 1
+                my_panel = my_letters[ (i-1) % num_letters ]
+                plt.subplot(nrow, ncol, i)
+                x = range(len(org2powerksq[k]))
+                # logger.info('len(x) %d len(pwr) %d', len(x), len(power_norm))
+                # plt.plot(x[2:], power_norm[2:], 'k')
+                plt.plot(x[2:], org2powerksq[k][2:], 'b')
+                plt.xlabel('Frequency', fontsize=mysize)
+                plt.ylabel('Power', fontsize=mysize)
+                plt.xlim(0, nfft/2)
+                plt.ylim(0, 0.45)
+                plt.yticks(np.linspace(0,0.4,5))
+                plt.title('(%s) Spectral power, sum = %.3f' % (my_panel, org2invasion[k]), fontsize=mysize)
+    
+            #plt.tight_layout()
+            fig.set_tight_layout(True)
+            plt.savefig(os.path.join(outdir, 'fig1_' + c + '.pdf'))
+            plt.close()
+        
+        
+            ncol = 2
+            fig = plt.figure(figsize=(4*ncol, 3 * nrow))
+            my_alphabet = "ABCDEFG"
+            my_letters = list(my_alphabet)
+            num_letters = len(my_letters)
+            mysize='medium'
+            for row in range(nrow):
+                k = my_order[row]
+                i = row * ncol
+    
+                # try to parse the organoid name to get better fields
+                toks = k.split('_')
+                assert (len(toks) == 4), 'parsing error for organoid name %s' % k
+                (ctnstr, tumorstr, daystr, orgnum) = toks
+                tumornum = ctnstr[3:]
+                if (tumornum[0] == '0'):
+                    tumornum = tumornum[1:]
+                if (orgnum[0] == '0'):
+                    orgnum = orgnum[1:]
+    
+                # DIC image
+                i += 1
+                my_panel = my_letters[ (i-1) % num_letters ]
+                plt.subplot(nrow, ncol, i)
+                plt.imshow(org2DIC[k])
+                plt.scatter(org2xxinterp[k], org2yyinterp[k], marker='.', facecolors='yellow', edgecolors='none')
+                plt.xticks(xtick_locs, xtick_labels)
+                plt.yticks(ytick_locs, ytick_labels)
+                plt.xlabel('Microns', fontsize=mysize)
+                plt.ylabel('Microns', fontsize=mysize)
+                plt.title('(%s) Tumor %s, organoid %s, DIC' % (my_panel, tumornum, orgnum), fontsize=mysize)
+    
+                # K14 image
+                i += 1
+                my_panel = my_letters[ (i-1) % num_letters ]
+                ax = plt.subplot(nrow, ncol, i)
                 plt.imshow(org2K14[k])
+                plt.scatter(org2xxinterp[k], org2yyinterp[k], marker='.', facecolors='yellow', edgecolors='none')
                 plt.xticks(xtick_locs, xtick_labels)
                 plt.yticks(ytick_locs, ytick_labels)
                 plt.xlabel('Microns', fontsize=mysize)
                 plt.ylabel('Microns', fontsize=mysize)
                 plt.title('(%s) Tumor %s, organoid %s, K14' % (my_panel, tumornum, orgnum), fontsize=mysize)
-            
-            # Boundary
-            i += 1
-            my_panel = my_letters[ (i-1) % num_letters ]
-            ax = plt.subplot(nrow, ncol, i)
-            plt.plot(org2xx[k], org2yy[k], 'k', label='Boundary from file')
-            plt.scatter(org2xxinterp[k], org2yyinterp[k], facecolors='none', edgecolors='b')
-            ax.set_aspect('equal')
-            ax.set_xlim(0, width-1) # the last point is included, so use width-1 and height-1
-            ax.set_ylim(0, height-1)
-            plt.xticks(xtick_locs, xtick_labels)
-            plt.yticks(ytick_locs, ytick_labels)
-            plt.title('(%s) Boundary' % my_panel, fontsize=mysize)
-            plt.xlabel('Microns', fontsize=mysize)
-            plt.ylabel('Microns', fontsize=mysize)
-            plt.gca().invert_yaxis()
-
-            # Spectrum
-            i += 1
-            my_panel = my_letters[ (i-1) % num_letters ]
-            plt.subplot(nrow, ncol, i)
-            x = range(len(org2powerksq[k]))
-            # logger.info('len(x) %d len(pwr) %d', len(x), len(power_norm))
-            # plt.plot(x[2:], power_norm[2:], 'k')
-            plt.plot(x[2:], org2powerksq[k][2:], 'b')
-            plt.xlabel('Frequency', fontsize=mysize)
-            plt.ylabel('Power', fontsize=mysize)
-            plt.xlim(0, nfft/2)
-            plt.ylim(0, 0.45)
-            plt.yticks(np.linspace(0,0.4,5))
-            plt.title('(%s) Spectral power, sum = %.3f' % (my_panel, org2invasion[k]), fontsize=mysize)
-
-        #plt.tight_layout()
-        fig.set_tight_layout(True)
-        plt.savefig(os.path.join(outdir, 'fig1_' + c + '.pdf'))
-        plt.close()
-        
-        
-        ncol = 2
-        fig = plt.figure(figsize=(4*ncol, 3 * nrow))
-        my_alphabet = "ABCDEFG"
-        my_letters = list(my_alphabet)
-        num_letters = len(my_letters)
-        mysize='medium'
-        for row in range(nrow):
-            k = my_order[row]
-            i = row * ncol
-
-            # try to parse the organoid name to get better fields
-            toks = k.split('_')
-            assert (len(toks) == 4), 'parsing error for organoid name %s' % k
-            (ctnstr, tumorstr, daystr, orgnum) = toks
-            tumornum = ctnstr[3:]
-            if (tumornum[0] == '0'):
-                tumornum = tumornum[1:]
-            if (orgnum[0] == '0'):
-                orgnum = orgnum[1:]
-
-            # DIC image
-            i += 1
-            my_panel = my_letters[ (i-1) % num_letters ]
-            plt.subplot(nrow, ncol, i)
-            plt.imshow(org2DIC[k])
-            plt.scatter(org2xxinterp[k], org2yyinterp[k], marker='.', facecolors='yellow', edgecolors='none')
-            plt.xticks(xtick_locs, xtick_labels)
-            plt.yticks(ytick_locs, ytick_labels)
-            plt.xlabel('Microns', fontsize=mysize)
-            plt.ylabel('Microns', fontsize=mysize)
-            plt.title('(%s) Tumor %s, organoid %s, DIC' % (my_panel, tumornum, orgnum), fontsize=mysize)
-
-            # K14 image
-            i += 1
-            my_panel = my_letters[ (i-1) % num_letters ]
-            ax = plt.subplot(nrow, ncol, i)
-            plt.imshow(org2K14[k])
-            plt.scatter(org2xxinterp[k], org2yyinterp[k], marker='.', facecolors='yellow', edgecolors='none')
-            plt.xticks(xtick_locs, xtick_labels)
-            plt.yticks(ytick_locs, ytick_labels)
-            plt.xlabel('Microns', fontsize=mysize)
-            plt.ylabel('Microns', fontsize=mysize)
-            plt.title('(%s) Tumor %s, organoid %s, K14' % (my_panel, tumornum, orgnum), fontsize=mysize)
-            
-            # Boundary
-            #i += 1
-            #my_panel = my_letters[ (i-1) % num_letters ]
-            #ax = plt.subplot(nrow, ncol, i)
-            #plt.plot(org2xx[k], org2yy[k], 'yellow', label='Boundary from file')
-            #ax.set_aspect('equal')
-            #ax.set_xlim(0, width-1) # the last point is included, so use width-1 and height-1
-            #ax.set_ylim(0, height-1)
-            #plt.xticks(xtick_locs, xtick_labels)
-            #plt.yticks(ytick_locs, ytick_labels)
-            #plt.title('(%s) Boundary' % my_panel, fontsize=mysize)
-            #plt.xlabel('Microns', fontsize=mysize)
-            #plt.ylabel('Microns', fontsize=mysize)
-            #plt.gca().invert_yaxis()
-
-        #plt.tight_layout()
-        fig.set_tight_layout(True)
-        plt.savefig(os.path.join(outdir, 'fig7_' + c + '.pdf'))
-        plt.close()
+                
+                # Boundary
+                #i += 1
+                #my_panel = my_letters[ (i-1) % num_letters ]
+                #ax = plt.subplot(nrow, ncol, i)
+                #plt.plot(org2xx[k], org2yy[k], 'yellow', label='Boundary from file')
+                #ax.set_aspect('equal')
+                #ax.set_xlim(0, width-1) # the last point is included, so use width-1 and height-1
+                #ax.set_ylim(0, height-1)
+                #plt.xticks(xtick_locs, xtick_labels)
+                #plt.yticks(ytick_locs, ytick_labels)
+                #plt.title('(%s) Boundary' % my_panel, fontsize=mysize)
+                #plt.xlabel('Microns', fontsize=mysize)
+                #plt.ylabel('Microns', fontsize=mysize)
+                #plt.gca().invert_yaxis()
+    
+            #plt.tight_layout()
+            fig.set_tight_layout(True)
+            plt.savefig(os.path.join(outdir, 'fig7_' + c + '.pdf'))
+            plt.close()
         
         # figures
         # invasion vs size
@@ -3484,8 +3484,10 @@ def main():
         write_table(merge_table, os.path.join(args.outdir, 'merge_table.txt'))
     
         #write_exif_tags(merge_table, args.dic_orig, os.path.join(args.outdir, 'exifs_uniq.txt'))
-    
-        (organoid_table, group_table, xy_interp_dict, xy_norm_dict, xy_hat_dict, weightspectrum_dict) = get_dic_xy_k14(merge_table, args.dic_orig, args.coords, args.nfft, args.outdir)
+        extrafigs = False
+        if (args.coords == '../COORDS_FIG1'):
+            extrafigs = True
+        (organoid_table, group_table, xy_interp_dict, xy_norm_dict, xy_hat_dict, weightspectrum_dict) = get_dic_xy_k14(merge_table, args.dic_orig, args.coords, args.nfft, args.outdir, extrafigs)
         write_table(organoid_table, os.path.join(args.outdir, 'organoid_table.txt'))
         write_table(group_table, os.path.join(args.outdir, 'group_table.txt'))
 

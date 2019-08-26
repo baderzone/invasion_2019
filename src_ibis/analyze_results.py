@@ -300,6 +300,7 @@ def test_scatter_pool(y_vec, x_vec, group_vec, yname, xname, tailfrac_line, tail
     plt.xlabel(xlabel, fontsize=myfs)
     plt.ylabel(ylabel, fontsize=myfs)
 
+    plt.scatter(xx_between, yy_between, marker='o', color='k')
     plt.plot(xx_fitb, yy_fitb, 'k--')
     if xname == 'organoid area':
         plt.legend(loc='best', fancybox=True, framealpha=0.5, fontsize='x-small')
